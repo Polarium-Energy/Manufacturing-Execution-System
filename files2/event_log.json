@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "time": "2026-07-16",
+    "type": "other",
+    "model": "885-00001 P6",
+    "description": "F/C spare part",
+    "duration_min": null,
+    "source": "file"
+  },
+  {
+    "id": 2,
+    "time": "2026-07-16",
+    "type": "other",
+    "model": "880-00053 P2",
+    "description": "KIT",
+    "duration_min": null,
+    "source": "file"
+  },
+  {
+    "id": 3,
+    "time": "2026-07-16",
+    "type": "other",
+    "model": "800-00350 P5",
+    "description": "Morlus model: 13pcs backlog due to shortage the income material",
+    "duration_min": null,
+    "source": "file"
+  }
+]

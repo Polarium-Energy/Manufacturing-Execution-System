@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17 13:08:36",
+  "last_update": "2026-07-17 13:12:17",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -114,7 +114,7 @@
     }
   ],
   "hpu": {
-    "total": 25,
+    "total": 24,
     "day_shift": 3.3499344692005244,
     "night_shift": 0,
     "daily": {
@@ -623,7 +623,7 @@
       "week": 29,
       "plan": 1150,
       "actual": 763,
-      "updated": "2026-07-17 13:08:36"
+      "updated": "2026-07-17 13:12:17"
     },
     "30": {
       "week": 30,
@@ -778,7 +778,7 @@
         "night_present": 24,
         "night_total": 24,
         "night_absent": 0,
-        "updated": "2026-07-17 13:08:36"
+        "updated": "2026-07-17 13:12:17"
       }
     },
     "34": {

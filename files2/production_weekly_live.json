@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17 15:25:09",
+  "last_update": "2026-07-17 15:28:46",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -115,7 +115,7 @@
   ],
   "hpu": {
     "total": 24,
-    "day_shift": 3.2895752895752897,
+    "day_shift": 3.6396396396396398,
     "night_shift": 0,
     "daily": {
       "Mon": 22,
@@ -131,7 +131,7 @@
       "Tue": 3.213270142180095,
       "Wed": 2.9471153846153846,
       "Thu": 5.675,
-      "Fri": 0,
+      "Fri": 8,
       "Sat": 0,
       "Sun": 0
     },
@@ -144,13 +144,13 @@
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 3.2895752895752897,
+    "accumulate_total": 3.6396396396396398,
     "accumulate_daily": {
       "Mon": 2.8627450980392157,
       "Tue": 3.213270142180095,
       "Wed": 2.9471153846153846,
       "Thu": 5.675,
-      "Fri": 0,
+      "Fri": 8,
       "Sat": 0,
       "Sun": 0
     }
@@ -435,7 +435,7 @@
     "Tue": 3.213270142180095,
     "Wed": 2.9471153846153846,
     "Thu": 5.675,
-    "Fri": 3.0,
+    "Fri": 8,
     "Sat": null,
     "Sun": null
   },
@@ -445,11 +445,11 @@
     "Tue": 123.1,
     "Wed": 112.9,
     "Thu": 217.4,
-    "Fri": 114.9,
+    "Fri": 306.5,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 126.0,
+  "week_efficiency_hpu": 139.4,
   "history": {
     "26": {
       "week": 26,
@@ -623,7 +623,7 @@
       "week": 29,
       "plan": 1150,
       "actual": 777,
-      "updated": "2026-07-17 15:25:09"
+      "updated": "2026-07-17 15:28:46"
     },
     "30": {
       "week": 30,
@@ -778,7 +778,7 @@
         "night_present": 24,
         "night_total": 24,
         "night_absent": 0,
-        "updated": "2026-07-17 15:25:09"
+        "updated": "2026-07-17 15:28:46"
       }
     },
     "34": {

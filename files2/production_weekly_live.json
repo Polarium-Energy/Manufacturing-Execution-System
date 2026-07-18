@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18 22:05:50",
+  "last_update": "2026-07-18 22:08:31",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -623,7 +623,7 @@
       "week": 29,
       "plan": 1150,
       "actual": 835,
-      "updated": "2026-07-18 22:05:50"
+      "updated": "2026-07-18 22:08:31"
     },
     "30": {
       "week": 30,
@@ -791,7 +791,7 @@
         "night_present": 23,
         "night_total": 24,
         "night_absent": 1,
-        "updated": "2026-07-18 22:05:50"
+        "updated": "2026-07-18 22:08:31"
       }
     },
     "34": {

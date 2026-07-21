@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-21 16:38:20",
+  "last_update": "2026-07-21 16:40:51",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -485,17 +485,17 @@
     "Sat": null,
     "Sun": null
   },
-  "hpu_target": 1.98,
+  "hpu_target": 2.18,
   "daily_efficiency": {
-    "Mon": 102.7,
-    "Tue": 126.3,
+    "Mon": 100.9,
+    "Tue": 96.0,
     "Wed": null,
     "Thu": null,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 111.4,
+  "week_efficiency_hpu": 98.8,
   "history": {
     "26": {
       "week": 26,
@@ -675,7 +675,7 @@
       "week": 30,
       "plan": 1414,
       "actual": 486,
-      "updated": "2026-07-21 16:38:20"
+      "updated": "2026-07-21 16:40:51"
     },
     "31": {
       "week": 31,
@@ -850,7 +850,7 @@
         "night_present": 5,
         "night_total": 5,
         "night_absent": 0,
-        "updated": "2026-07-21 16:38:20"
+        "updated": "2026-07-21 16:40:51"
       }
     },
     "34": {

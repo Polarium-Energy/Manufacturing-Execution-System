@@ -1,0 +1,29 @@
+name: Capture Dashboard Overview to Teams
+
+on:
+  schedule:
+    # 8:00 tối giờ Việt Nam (UTC+7) = 13:00 UTC
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}   # cho phép bấm "Run workflow" chạy tay để test
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run capture script
+        env:
+          WEBHOOK_URL: ${{ secrets.WEBHOOK_URL }}
+        run: python capture_overview_to_teams.py

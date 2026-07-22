@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-22 20:19:51",
+  "last_update": "2026-07-22 20:22:30",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -134,7 +134,7 @@
   "hpu": {
     "total": 52,
     "day_shift": 5,
-    "night_shift": 2.079656862745098,
+    "night_shift": 2.252450980392157,
     "daily": {
       "Mon": 48,
       "Tue": 50,
@@ -156,17 +156,17 @@
     "daily_night": {
       "Mon": 2.0326797385620914,
       "Tue": 2.473076923076923,
-      "Wed": 1.728,
+      "Wed": 2.292,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 2.079656862745098,
+    "accumulate_total": 2.252450980392157,
     "accumulate_daily": {
       "Mon": 2.0326797385620914,
       "Tue": 2.473076923076923,
-      "Wed": 1.728,
+      "Wed": 2.292,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
@@ -174,13 +174,13 @@
     }
   },
   "overtime": {
-    "total": 293,
-    "day_shift": 273,
+    "total": 434,
+    "day_shift": 414,
     "night_shift": 20,
     "daily": {
       "Mon": 145,
       "Tue": 148,
-      "Wed": 0,
+      "Wed": 141,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
@@ -479,7 +479,7 @@
   "daily_hpu": {
     "Mon": 2.0326797385620914,
     "Tue": 2.473076923076923,
-    "Wed": 1.728,
+    "Wed": 2.292,
     "Thu": null,
     "Fri": null,
     "Sat": null,
@@ -498,13 +498,13 @@
   "daily_efficiency": {
     "Mon": 100.9,
     "Tue": 85.7,
-    "Wed": 127.3,
+    "Wed": 96.0,
     "Thu": null,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 101.9,
+  "week_efficiency_hpu": 94.1,
   "history": {
     "26": {
       "week": 26,
@@ -684,7 +684,7 @@
       "week": 30,
       "plan": 1414,
       "actual": 816,
-      "updated": "2026-07-22 20:19:51"
+      "updated": "2026-07-22 20:22:30"
     },
     "31": {
       "week": 31,
@@ -872,7 +872,7 @@
         "night_present": 5,
         "night_total": 5,
         "night_absent": 0,
-        "updated": "2026-07-22 20:19:51"
+        "updated": "2026-07-22 20:22:30"
       }
     },
     "34": {

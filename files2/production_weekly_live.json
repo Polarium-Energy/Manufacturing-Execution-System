@@ -1,16 +1,16 @@
 {
-  "last_update": "2026-07-23 06:48:39",
+  "last_update": "2026-07-23 07:55:10",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "week": 30,
   "total": {
     "planned": 1059,
     "backlog": 237,
     "total_plan": 1296,
-    "produced": 816,
-    "rate": 0.6296296296296297
+    "produced": 876,
+    "rate": 0.6759259259259259
   },
   "day_dates": {
     "Mon": "2026-07-20",
@@ -45,12 +45,12 @@
       "planned": 250,
       "backlog": 100,
       "total_plan": 350,
-      "produced": 160,
-      "rate": 0.45714285714285713,
+      "produced": 220,
+      "rate": 0.6285714285714286,
       "daily": {
         "Mon": 90,
         "Tue": 60,
-        "Wed": 10,
+        "Wed": 70,
         "Thu": 0,
         "Fri": 0,
         "Sat": 0,
@@ -134,7 +134,7 @@
   "hpu": {
     "total": 52,
     "day_shift": 5,
-    "night_shift": 2.252450980392157,
+    "night_shift": 2.160958904109589,
     "daily": {
       "Mon": 48,
       "Tue": 50,
@@ -147,7 +147,7 @@
     "daily_day": {
       "Mon": 5,
       "Tue": 5,
-      "Wed": 0,
+      "Wed": 5,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
@@ -156,17 +156,17 @@
     "daily_night": {
       "Mon": 2.0326797385620914,
       "Tue": 2.473076923076923,
-      "Wed": 2.292,
+      "Wed": 2.0258064516129033,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 2.252450980392157,
+    "accumulate_total": 2.160958904109589,
     "accumulate_daily": {
       "Mon": 2.0326797385620914,
       "Tue": 2.473076923076923,
-      "Wed": 2.292,
+      "Wed": 2.0258064516129033,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
@@ -174,13 +174,13 @@
     }
   },
   "overtime": {
-    "total": 434,
+    "total": 444,
     "day_shift": 414,
-    "night_shift": 20,
+    "night_shift": 30,
     "daily": {
       "Mon": 145,
       "Tue": 148,
-      "Wed": 141,
+      "Wed": 151,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
@@ -345,13 +345,13 @@
   "manpower": {
     "source": "DANH SÁCH NHÂN LỰC.xlsx — sheet sĩ số",
     "week": 30,
-    "total_all": 57,
+    "total_all": 56,
     "op_total": 24,
-    "os_total": 33,
+    "os_total": 32,
     "day_shift": {
-      "date": "2026-07-22",
-      "total": 52,
-      "present": 48,
+      "date": "2026-07-23",
+      "total": 51,
+      "present": 47,
       "absent": 4,
       "op": {
         "total": 22,
@@ -362,16 +362,16 @@
         "maternity": ""
       },
       "os": {
-        "total": 30,
-        "present": 27,
+        "total": 29,
+        "present": 26,
         "absent": 3,
-        "permit": "Pao , Nguyệt, Thái",
-        "no_permit": "",
+        "permit": "Nguyệt, Thu Ngọc",
+        "no_permit": "Pao",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "total": 5,
       "present": 5,
       "absent": 0,
@@ -413,11 +413,11 @@
       },
       {
         "model": "Kit&Spare",
-        "actual": 160,
+        "actual": 220,
         "target": 355,
-        "productivity_pct": 45.1,
+        "productivity_pct": 62.0,
         "hpu": 1,
-        "earned_hours": 160
+        "earned_hours": 220
       },
       {
         "model": "Khác",
@@ -429,35 +429,35 @@
       }
     ],
     "overall": {
-      "earned_hours": 1730.5,
-      "actual_hours": 2629,
-      "base_hours": 2332,
+      "earned_hours": 1790.5,
+      "actual_hours": 2585,
+      "base_hours": 2288,
       "ot_hours": 297,
-      "headcount_present": 53,
+      "headcount_present": 52,
       "std_hours_per_person": 44,
-      "efficiency_pct": 65.8
+      "efficiency_pct": 69.3
     }
   },
   "model_kpi_daily": {
-    "day": "Wed",
+    "day": "Thu",
     "by_model": [
       {
         "model": "LFP Large",
-        "actual": 120,
+        "actual": 0,
         "hpu": 3,
-        "earned_hours": 360
-      },
-      {
-        "model": "Morlus",
-        "actual": 120,
-        "hpu": 1.5,
-        "earned_hours": 180.0
+        "earned_hours": 0
       },
       {
         "model": "Kit&Spare",
-        "actual": 10,
+        "actual": 0,
         "hpu": 1,
-        "earned_hours": 10
+        "earned_hours": 0
+      },
+      {
+        "model": "Morlus",
+        "actual": 0,
+        "hpu": 1.5,
+        "earned_hours": 0.0
       },
       {
         "model": "Khác",
@@ -467,29 +467,29 @@
       }
     ],
     "overall": {
-      "earned_hours": 550.0,
-      "actual_hours": 487.7,
-      "base_hours": 388.7,
-      "ot_hours": 99,
-      "headcount_present": 53,
+      "earned_hours": 0.0,
+      "actual_hours": 381.3,
+      "base_hours": 381.3,
+      "ot_hours": 0,
+      "headcount_present": 52,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 112.8
+      "efficiency_pct": 0.0
     }
   },
   "daily_hpu": {
     "Mon": 2.0326797385620914,
     "Tue": 2.473076923076923,
-    "Wed": 2.292,
+    "Wed": 2.0258064516129033,
     "Thu": null,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "hpu_target": 2.12,
+  "hpu_target": 2.04,
   "daily_hpu_target": {
     "Mon": 2.05,
     "Tue": 2.12,
-    "Wed": 2.2,
+    "Wed": 1.97,
     "Thu": null,
     "Fri": null,
     "Sat": null,
@@ -498,13 +498,13 @@
   "daily_efficiency": {
     "Mon": 100.9,
     "Tue": 85.7,
-    "Wed": 96.0,
+    "Wed": 97.2,
     "Thu": null,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 94.1,
+  "week_efficiency_hpu": 94.4,
   "history": {
     "26": {
       "week": 26,
@@ -683,8 +683,8 @@
     "30": {
       "week": 30,
       "plan": 1414,
-      "actual": 816,
-      "updated": "2026-07-23 06:48:39"
+      "actual": 876,
+      "updated": "2026-07-23 07:55:10"
     },
     "31": {
       "week": 31,
@@ -873,6 +873,19 @@
         "night_total": 5,
         "night_absent": 0,
         "updated": "2026-07-23 06:48:39"
+      },
+      "2026-07-23": {
+        "date": "2026-07-23",
+        "total_all": 56,
+        "op_total": 24,
+        "os_total": 32,
+        "day_present": 47,
+        "day_total": 51,
+        "day_absent": 4,
+        "night_present": 5,
+        "night_total": 5,
+        "night_absent": 0,
+        "updated": "2026-07-23 07:55:10"
       }
     },
     "34": {

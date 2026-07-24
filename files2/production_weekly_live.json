@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-24 11:21:46",
+  "last_update": "2026-07-24 11:24:25",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -223,7 +223,7 @@
     "33": 1030,
     "34": 943,
     "35": 1005,
-    "36": 569
+    "36": 627
   },
   "weeks_range": [
     1,
@@ -684,7 +684,7 @@
       "week": 30,
       "plan": 1414,
       "actual": 1080,
-      "updated": "2026-07-24 11:21:46"
+      "updated": "2026-07-24 11:24:25"
     },
     "31": {
       "week": 31,
@@ -898,7 +898,7 @@
         "night_present": 5,
         "night_total": 5,
         "night_absent": 0,
-        "updated": "2026-07-24 11:21:46"
+        "updated": "2026-07-24 11:24:25"
       }
     },
     "34": {
@@ -915,7 +915,7 @@
     },
     "36": {
       "week": 36,
-      "plan": 569,
+      "plan": 627,
       "actual": null,
       "updated": "2026-07-21 09:57:05"
     }

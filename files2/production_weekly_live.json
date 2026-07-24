@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-24 13:32:55",
+  "last_update": "2026-07-24 15:02:59",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -9,8 +9,8 @@
     "planned": 1059,
     "backlog": 237,
     "total_plan": 1296,
-    "produced": 1357,
-    "rate": 1.0470679012345678
+    "produced": 1373,
+    "rate": 1.0594135802469136
   },
   "day_dates": {
     "Mon": "2026-07-20",
@@ -27,14 +27,14 @@
       "planned": 498,
       "backlog": 124,
       "total_plan": 622,
-      "produced": 595,
-      "rate": 0.9565916398713826,
+      "produced": 599,
+      "rate": 0.9630225080385852,
       "daily": {
         "Mon": 143,
         "Tue": 128,
         "Wed": 120,
         "Thu": 84,
-        "Fri": 120,
+        "Fri": 124,
         "Sat": 0,
         "Sun": 0
       },
@@ -81,14 +81,14 @@
       "planned": 311,
       "backlog": 0,
       "total_plan": 311,
-      "produced": 349,
-      "rate": 1.1221864951768488,
+      "produced": 361,
+      "rate": 1.1607717041800643,
       "daily": {
         "Mon": 71,
         "Tue": 72,
         "Wed": 120,
         "Thu": 49,
-        "Fri": 37,
+        "Fri": 49,
         "Sat": 0,
         "Sun": 0
       },
@@ -134,7 +134,7 @@
   "hpu": {
     "total": 50,
     "day_shift": 5,
-    "night_shift": 2.0147383935151066,
+    "night_shift": 1.9941733430444282,
     "daily": {
       "Mon": 48,
       "Tue": 50,
@@ -158,31 +158,31 @@
       "Tue": 2.473076923076923,
       "Wed": 2.0258064516129033,
       "Thu": 2.357843137254902,
-      "Fri": 1.2996389891696751,
+      "Fri": 1.242320819112628,
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 2.0147383935151066,
+    "accumulate_total": 1.9941733430444282,
     "accumulate_daily": {
       "Mon": 2.0326797385620914,
       "Tue": 2.473076923076923,
       "Wed": 2.0258064516129033,
       "Thu": 2.357843137254902,
-      "Fri": 1.2996389891696751,
+      "Fri": 1.242320819112628,
       "Sat": 0,
       "Sun": 0
     }
   },
   "overtime": {
-    "total": 457,
-    "day_shift": 417,
+    "total": 461,
+    "day_shift": 421,
     "night_shift": 40,
     "daily": {
       "Mon": 145,
       "Tue": 148,
       "Wed": 151,
       "Thu": 13,
-      "Fri": 0,
+      "Fri": 4,
       "Sat": 0,
       "Sun": 0
     }
@@ -219,11 +219,11 @@
     "29": 1150,
     "30": 1414,
     "31": 1091,
-    "32": 919,
+    "32": 917,
     "33": 1030,
-    "34": 943,
+    "34": 945,
     "35": 1005,
-    "36": 627
+    "36": 827
   },
   "weeks_range": [
     1,
@@ -336,7 +336,7 @@
     "2026-05": 5230,
     "2026-06": 5823,
     "2026-07": 4827,
-    "2026-08": 4524,
+    "2026-08": 4724,
     "2026-09": 1839,
     "2026-10": 1948,
     "2026-11": 1000,
@@ -397,11 +397,11 @@
     "by_model": [
       {
         "model": "LFP Large",
-        "actual": 595,
+        "actual": 599,
         "target": 498,
-        "productivity_pct": 119.5,
+        "productivity_pct": 120.3,
         "hpu": 3,
-        "earned_hours": 1785
+        "earned_hours": 1797
       },
       {
         "model": "Kit&Spare",
@@ -413,11 +413,11 @@
       },
       {
         "model": "Morlus",
-        "actual": 362,
+        "actual": 374,
         "target": 324,
-        "productivity_pct": 111.7,
+        "productivity_pct": 115.4,
         "hpu": 1.5,
-        "earned_hours": 543.0
+        "earned_hours": 561.0
       },
       {
         "model": "Khác",
@@ -429,13 +429,13 @@
       }
     ],
     "overall": {
-      "earned_hours": 2833.0,
+      "earned_hours": 2863.0,
       "actual_hours": 2495,
       "base_hours": 2200,
       "ot_hours": 295,
       "headcount_present": 50,
       "std_hours_per_person": 44,
-      "efficiency_pct": 113.5
+      "efficiency_pct": 114.7
     }
   },
   "model_kpi_daily": {
@@ -443,9 +443,9 @@
     "by_model": [
       {
         "model": "LFP Large",
-        "actual": 120,
+        "actual": 124,
         "hpu": 3,
-        "earned_hours": 360
+        "earned_hours": 372
       },
       {
         "model": "Kit&Spare",
@@ -455,9 +455,9 @@
       },
       {
         "model": "Morlus",
-        "actual": 37,
+        "actual": 49,
         "hpu": 1.5,
-        "earned_hours": 55.5
+        "earned_hours": 73.5
       },
       {
         "model": "Khác",
@@ -467,13 +467,13 @@
       }
     ],
     "overall": {
-      "earned_hours": 535.5,
+      "earned_hours": 565.5,
       "actual_hours": 369.7,
       "base_hours": 366.7,
       "ot_hours": 3,
       "headcount_present": 50,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 144.8
+      "efficiency_pct": 153.0
     }
   },
   "daily_hpu": {
@@ -481,7 +481,7 @@
     "Tue": 2.473076923076923,
     "Wed": 2.0258064516129033,
     "Thu": 2.357843137254902,
-    "Fri": 1.2996389891696751,
+    "Fri": 1.242320819112628,
     "Sat": null,
     "Sun": null
   },
@@ -500,11 +500,11 @@
     "Tue": 85.7,
     "Wed": 97.2,
     "Thu": 69.6,
-    "Fri": 148.5,
+    "Fri": 155.4,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 96.3,
+  "week_efficiency_hpu": 97.3,
   "history": {
     "26": {
       "week": 26,
@@ -683,8 +683,8 @@
     "30": {
       "week": 30,
       "plan": 1414,
-      "actual": 1357,
-      "updated": "2026-07-24 13:32:55"
+      "actual": 1373,
+      "updated": "2026-07-24 15:02:59"
     },
     "31": {
       "week": 31,
@@ -694,7 +694,7 @@
     },
     "32": {
       "week": 32,
-      "plan": 919,
+      "plan": 917,
       "actual": null,
       "updated": "2026-07-03 15:22:25"
     },
@@ -898,12 +898,12 @@
         "night_present": 5,
         "night_total": 5,
         "night_absent": 0,
-        "updated": "2026-07-24 13:32:55"
+        "updated": "2026-07-24 15:02:59"
       }
     },
     "34": {
       "week": 34,
-      "plan": 943,
+      "plan": 945,
       "actual": null,
       "updated": "2026-07-06 13:22:43"
     },
@@ -915,7 +915,7 @@
     },
     "36": {
       "week": 36,
-      "plan": 627,
+      "plan": 827,
       "actual": null,
       "updated": "2026-07-21 09:57:05"
     }

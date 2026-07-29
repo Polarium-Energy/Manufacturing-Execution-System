@@ -1,40 +1,40 @@
 {
-  "last_update": "2026-07-27 00:47:41",
+  "last_update": "2026-07-29 10:45:40",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
-  "date": "2026-07-24",
-  "week": 30,
+  "date": "2026-07-28",
+  "week": 31,
   "total": {
-    "planned": 1059,
-    "backlog": 237,
-    "total_plan": 1296,
-    "produced": 1388,
-    "rate": 1.0709876543209877
+    "planned": 1091,
+    "backlog": -92,
+    "total_plan": 999,
+    "produced": 378,
+    "rate": 0.3783783783783784
   },
   "day_dates": {
-    "Mon": "2026-07-20",
-    "Tue": "2026-07-21",
-    "Wed": "2026-07-22",
-    "Thu": "2026-07-23",
-    "Fri": "2026-07-24",
-    "Sat": "2026-07-25",
-    "Sun": "2026-07-26"
+    "Mon": "2026-07-27",
+    "Tue": "2026-07-28",
+    "Wed": "2026-07-29",
+    "Thu": "2026-07-30",
+    "Fri": "2026-07-31",
+    "Sat": "2026-08-01",
+    "Sun": "2026-08-02"
   },
   "products": [
     {
       "sku": "800-00314 P6",
-      "planned": 498,
-      "backlog": 124,
-      "total_plan": 622,
-      "produced": 614,
-      "rate": 0.9871382636655949,
+      "planned": 450,
+      "backlog": 8,
+      "total_plan": 458,
+      "produced": 181,
+      "rate": 0.3951965065502183,
       "daily": {
-        "Mon": 143,
-        "Tue": 128,
-        "Wed": 120,
-        "Thu": 84,
-        "Fri": 139,
+        "Mon": 89,
+        "Tue": 92,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
         "Sat": 0,
         "Sun": 0
       },
@@ -42,147 +42,129 @@
     },
     {
       "sku": "885-00001 P6",
-      "planned": 250,
-      "backlog": 100,
-      "total_plan": 350,
-      "produced": 400,
-      "rate": 1.1428571428571428,
+      "planned": 230,
+      "backlog": -50,
+      "total_plan": 180,
+      "produced": 100,
+      "rate": 0.5555555555555556,
       "daily": {
-        "Mon": 90,
-        "Tue": 60,
-        "Wed": 70,
-        "Thu": 60,
-        "Fri": 120,
+        "Mon": 50,
+        "Tue": 50,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
         "Sat": 0,
         "Sun": 0
       },
       "note": "F/C spare part"
     },
     {
-      "sku": "800-00350 P5",
-      "planned": 0,
-      "backlog": 13,
-      "total_plan": 13,
-      "produced": 13,
-      "rate": 1,
-      "daily": {
-        "Mon": 2,
-        "Tue": 0,
-        "Wed": 0,
-        "Thu": 11,
-        "Fri": 0,
-        "Sat": 0,
-        "Sun": 0
-      },
-      "note": "Morlus model: 13pcs backlog due to shortage the income material"
-    },
-    {
       "sku": "800-00350 P5 plus",
-      "planned": 311,
-      "backlog": 0,
-      "total_plan": 311,
-      "produced": 361,
-      "rate": 1.1607717041800643,
+      "planned": 310,
+      "backlog": -50,
+      "total_plan": 260,
+      "produced": 96,
+      "rate": 0.36923076923076925,
       "daily": {
-        "Mon": 71,
-        "Tue": 72,
-        "Wed": 120,
-        "Thu": 49,
-        "Fri": 49,
+        "Mon": 48,
+        "Tue": 48,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
         "Sat": 0,
         "Sun": 0
       },
       "note": ""
     },
     {
-      "sku": "885-00003 P3",
-      "planned": 105,
+      "sku": "800-00357 P1",
+      "planned": 1,
       "backlog": 0,
-      "total_plan": 105,
-      "produced": 105,
+      "total_plan": 1,
+      "produced": 1,
       "rate": 1,
       "daily": {
-        "Mon": 0,
+        "Mon": 1,
         "Tue": 0,
         "Wed": 0,
-        "Thu": 105,
+        "Thu": 0,
         "Fri": 0,
         "Sat": 0,
         "Sun": 0
       },
-      "note": "Spare part Adapter, Sp48, Mosbus interface Cable"
+      "note": ""
     },
     {
-      "sku": "880-00022 P3",
-      "planned": 250,
+      "sku": "880-00180 P1",
+      "planned": 100,
       "backlog": 0,
-      "total_plan": 250,
-      "produced": 250,
-      "rate": 1,
+      "total_plan": 100,
+      "produced": 0,
+      "rate": 0,
       "daily": {
         "Mon": 0,
         "Tue": 0,
         "Wed": 0,
-        "Thu": 125,
-        "Fri": 125,
+        "Thu": 0,
+        "Fri": 0,
         "Sat": 0,
         "Sun": 0
       },
-      "note": "Stacking material Sp48"
+      "note": "Controller Kit"
     }
   ],
   "hpu": {
-    "total": 50,
-    "day_shift": 5,
-    "night_shift": 1.9726224783861672,
+    "total": 0,
+    "day_shift": 2.238095238095238,
+    "night_shift": 0,
     "daily": {
-      "Mon": 48,
-      "Tue": 50,
-      "Wed": 48,
-      "Thu": 47,
-      "Fri": 45,
+      "Mon": 0,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
       "Sat": 0,
       "Sun": 0
     },
     "daily_day": {
-      "Mon": 5,
-      "Tue": 5,
-      "Wed": 5,
-      "Thu": 5,
+      "Mon": 2.4414893617021276,
+      "Tue": 2.036842105263158,
+      "Wed": 0,
+      "Thu": 0,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
     },
     "daily_night": {
-      "Mon": 2.0326797385620914,
-      "Tue": 2.473076923076923,
-      "Wed": 2.0258064516129033,
-      "Thu": 2.357843137254902,
-      "Fri": 1.1818181818181819,
+      "Mon": 0,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 1.9726224783861672,
+    "accumulate_total": 2.238095238095238,
     "accumulate_daily": {
-      "Mon": 2.0326797385620914,
-      "Tue": 2.473076923076923,
-      "Wed": 2.0258064516129033,
-      "Thu": 2.357843137254902,
-      "Fri": 1.1818181818181819,
+      "Mon": 2.4414893617021276,
+      "Tue": 2.036842105263158,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
       "Sat": 0,
       "Sun": 0
     }
   },
   "overtime": {
-    "total": 461,
-    "day_shift": 421,
-    "night_shift": 40,
+    "total": 0,
+    "day_shift": 0,
+    "night_shift": 0,
     "daily": {
-      "Mon": 145,
-      "Tue": 148,
-      "Wed": 151,
-      "Thu": 13,
-      "Fri": 4,
+      "Mon": 0,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
       "Sat": 0,
       "Sun": 0
     }
@@ -219,11 +201,12 @@
     "29": 1150,
     "30": 1414,
     "31": 1091,
-    "32": 917,
-    "33": 1030,
-    "34": 945,
-    "35": 1005,
-    "36": 827
+    "32": 1029,
+    "33": 818,
+    "34": 836,
+    "35": 896,
+    "36": 827,
+    "37": 624
   },
   "weeks_range": [
     1,
@@ -261,41 +244,10 @@
     33,
     34,
     35,
-    36
+    36,
+    37
   ],
   "plan_detail_current": [
-    {
-      "sku": "800-00314 R06",
-      "item": "800-00314",
-      "description": "Battery Polarium LFP G5 19\"4U 230Ah 15S 1pole",
-      "qty": 498
-    },
-    {
-      "sku": "800-00350 R05",
-      "item": "800-00350",
-      "description": "Battery Polarium LFP G5 19\" 3U 100Ah 15S 1pole",
-      "qty": 311
-    },
-    {
-      "sku": "880-00022 R03",
-      "item": "880-00022",
-      "description": "Stacking Material SP48",
-      "qty": 250
-    },
-    {
-      "sku": "885-00001 R06",
-      "item": "885-00001",
-      "description": "Spare Part - Gen 5 Front Module 1-Pole",
-      "qty": 250
-    },
-    {
-      "sku": "885-00003 R03",
-      "item": "885-00003",
-      "description": "SPARE PART - ADAPTER, SP48 MODBUS INTERFACE CABLE",
-      "qty": 105
-    }
-  ],
-  "plan_detail_next": [
     {
       "sku": "800-00314 R06",
       "item": "800-00314",
@@ -327,7 +279,39 @@
       "qty": 1
     }
   ],
-  "plan_detail_next_week_num": 31,
+  "plan_detail_next": [
+    {
+      "sku": "885-00001 R06",
+      "item": "885-00001",
+      "description": "Spare Part - Gen 5 Front Module 1-Pole",
+      "qty": 600
+    },
+    {
+      "sku": "800-00334 R10",
+      "item": "800-00334",
+      "description": "Battery Polarium LFP G5 19\" 4U 150Ah 15S 1pole",
+      "qty": 200
+    },
+    {
+      "sku": "880-00180 R01",
+      "item": null,
+      "description": "Controller kit",
+      "qty": 129
+    },
+    {
+      "sku": "800-00042 R20",
+      "item": "800-00042",
+      "description": "Battery Polarium NMC G5 19\" 4U 100Ah 13S 2pole",
+      "qty": 90
+    },
+    {
+      "sku": "800-00036 R20",
+      "item": "800-00036",
+      "description": "Battery Polarium NMC G5 23\" 2U 100Ah 13S 2pole",
+      "qty": 10
+    }
+  ],
+  "plan_detail_next_week_num": 32,
   "monthly_plan": {
     "2026-01": 2161,
     "2026-02": 2423,
@@ -336,56 +320,56 @@
     "2026-05": 5230,
     "2026-06": 5823,
     "2026-07": 4827,
-    "2026-08": 4724,
-    "2026-09": 1839,
+    "2026-08": 4406,
+    "2026-09": 2157,
     "2026-10": 1948,
     "2026-11": 1000,
     "2026-12": 0
   },
   "manpower": {
     "source": "DANH SÁCH NHÂN LỰC.xlsx — sheet sĩ số",
-    "week": 30,
-    "total_all": 55,
+    "week": 31,
+    "total_all": 51,
     "op_total": 24,
-    "os_total": 31,
+    "os_total": 27,
     "day_shift": {
-      "date": "2026-07-24",
-      "total": 50,
-      "present": 45,
+      "date": "2026-07-29",
+      "total": 51,
+      "present": 46,
       "absent": 5,
       "op": {
-        "total": 22,
-        "present": 19,
-        "absent": 3,
-        "permit": "Kiên , Thủy",
-        "no_permit": "Quyên",
+        "total": 24,
+        "present": 23,
+        "absent": 1,
+        "permit": "Thủy",
+        "no_permit": "",
         "maternity": ""
       },
       "os": {
-        "total": 28,
-        "present": 26,
-        "absent": 2,
-        "permit": "Thủy, Nguyệt",
-        "no_permit": "",
+        "total": 27,
+        "present": 23,
+        "absent": 4,
+        "permit": "Thụ , Ngọc",
+        "no_permit": "Nguyệt , Duy",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-07-24",
-      "total": 5,
-      "present": 5,
+      "date": "2026-07-29",
+      "total": 0,
+      "present": 0,
       "absent": 0,
       "op": {
-        "total": 2,
-        "present": 2,
+        "total": 0,
+        "present": 0,
         "absent": 0,
         "permit": "",
         "no_permit": "",
         "maternity": ""
       },
       "os": {
-        "total": 3,
-        "present": 3,
+        "total": 0,
+        "present": 0,
         "absent": 0,
         "permit": "",
         "no_permit": "",
@@ -397,114 +381,114 @@
     "by_model": [
       {
         "model": "LFP Large",
-        "actual": 614,
-        "target": 498,
-        "productivity_pct": 123.3,
+        "actual": 182,
+        "target": 451,
+        "productivity_pct": 40.4,
         "hpu": 3,
-        "earned_hours": 1842
+        "earned_hours": 546
       },
       {
         "model": "Kit&Spare",
-        "actual": 505,
-        "target": 355,
-        "productivity_pct": 142.3,
+        "actual": 100,
+        "target": 230,
+        "productivity_pct": 43.5,
         "hpu": 1,
-        "earned_hours": 505
+        "earned_hours": 100
       },
       {
         "model": "Morlus",
-        "actual": 374,
-        "target": 324,
-        "productivity_pct": 115.4,
+        "actual": 96,
+        "target": 310,
+        "productivity_pct": 31.0,
         "hpu": 1.5,
-        "earned_hours": 561.0
+        "earned_hours": 144.0
       },
       {
         "model": "Khác",
-        "actual": 250,
-        "target": 250,
-        "productivity_pct": 100.0,
+        "actual": 0,
+        "target": 100,
+        "productivity_pct": 0.0,
         "hpu": null,
         "earned_hours": null
       }
     ],
     "overall": {
-      "earned_hours": 2908.0,
-      "actual_hours": 2495,
-      "base_hours": 2200,
-      "ot_hours": 295,
-      "headcount_present": 50,
+      "earned_hours": 790.0,
+      "actual_hours": 2024,
+      "base_hours": 2024,
+      "ot_hours": 0,
+      "headcount_present": 46,
       "std_hours_per_person": 44,
-      "efficiency_pct": 116.6
+      "efficiency_pct": 39.0
     }
   },
   "model_kpi_daily": {
-    "day": "Fri",
+    "day": "Tue",
     "by_model": [
       {
         "model": "LFP Large",
-        "actual": 139,
+        "actual": 92,
         "hpu": 3,
-        "earned_hours": 417
-      },
-      {
-        "model": "Khác",
-        "actual": 125,
-        "hpu": null,
-        "earned_hours": null
+        "earned_hours": 276
       },
       {
         "model": "Kit&Spare",
-        "actual": 120,
+        "actual": 50,
         "hpu": 1,
-        "earned_hours": 120
+        "earned_hours": 50
       },
       {
         "model": "Morlus",
-        "actual": 49,
+        "actual": 48,
         "hpu": 1.5,
-        "earned_hours": 73.5
+        "earned_hours": 72.0
+      },
+      {
+        "model": "Khác",
+        "actual": 0,
+        "hpu": null,
+        "earned_hours": null
       }
     ],
     "overall": {
-      "earned_hours": 610.5,
-      "actual_hours": 369.7,
-      "base_hours": 366.7,
-      "ot_hours": 3,
-      "headcount_present": 50,
+      "earned_hours": 398.0,
+      "actual_hours": 337.3,
+      "base_hours": 337.3,
+      "ot_hours": 0,
+      "headcount_present": 46,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 165.1
+      "efficiency_pct": 118.0
     }
   },
   "daily_hpu": {
-    "Mon": 2.0326797385620914,
-    "Tue": 2.473076923076923,
-    "Wed": 2.0258064516129033,
-    "Thu": 2.357843137254902,
-    "Fri": 1.1818181818181819,
+    "Mon": 2.4414893617021276,
+    "Tue": 2.036842105263158,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "hpu_target": 1.95,
+  "hpu_target": 2.09,
   "daily_hpu_target": {
-    "Mon": 2.05,
-    "Tue": 2.12,
-    "Wed": 1.97,
-    "Thu": 1.64,
-    "Fri": 1.98,
+    "Mon": 2.09,
+    "Tue": 2.09,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
     "Sat": null,
     "Sun": null
   },
   "daily_efficiency": {
-    "Mon": 100.9,
-    "Tue": 85.7,
-    "Wed": 97.2,
-    "Thu": 69.6,
-    "Fri": 167.5,
+    "Mon": 85.6,
+    "Tue": 102.6,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 98.9,
+  "week_efficiency_hpu": 93.4,
   "history": {
     "26": {
       "week": 26,
@@ -684,23 +668,23 @@
       "week": 30,
       "plan": 1414,
       "actual": 1388,
-      "updated": "2026-07-27 00:47:41"
+      "updated": "2026-07-27 00:55:44"
     },
     "31": {
       "week": 31,
       "plan": 1091,
-      "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "actual": 378,
+      "updated": "2026-07-29 10:45:40"
     },
     "32": {
       "week": 32,
-      "plan": 917,
+      "plan": 1029,
       "actual": null,
       "updated": "2026-07-03 15:22:25"
     },
     "33": {
       "week": 33,
-      "plan": 1030,
+      "plan": 818,
       "actual": null,
       "updated": "2026-07-03 15:22:25"
     },
@@ -898,18 +882,31 @@
         "night_present": 5,
         "night_total": 5,
         "night_absent": 0,
-        "updated": "2026-07-27 00:47:41"
+        "updated": "2026-07-27 00:55:44"
+      },
+      "2026-07-29": {
+        "date": "2026-07-29",
+        "total_all": 51,
+        "op_total": 24,
+        "os_total": 27,
+        "day_present": 46,
+        "day_total": 51,
+        "day_absent": 5,
+        "night_present": 0,
+        "night_total": 0,
+        "night_absent": 0,
+        "updated": "2026-07-29 10:45:40"
       }
     },
     "34": {
       "week": 34,
-      "plan": 945,
+      "plan": 836,
       "actual": null,
       "updated": "2026-07-06 13:22:43"
     },
     "35": {
       "week": 35,
-      "plan": 1005,
+      "plan": 896,
       "actual": null,
       "updated": "2026-07-13 08:03:58"
     },
@@ -918,6 +915,12 @@
       "plan": 827,
       "actual": null,
       "updated": "2026-07-21 09:57:05"
+    },
+    "37": {
+      "week": 37,
+      "plan": 624,
+      "actual": null,
+      "updated": "2026-07-29 10:45:40"
     }
   },
   "issue_record": {

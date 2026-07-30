@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-30 07:00:03",
+  "last_update": "2026-07-30 08:02:39",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -329,13 +329,13 @@
   "manpower": {
     "source": "DANH SÁCH NHÂN LỰC.xlsx — sheet sĩ số",
     "week": 31,
-    "total_all": 51,
+    "total_all": 52,
     "op_total": 24,
-    "os_total": 27,
+    "os_total": 28,
     "day_shift": {
-      "date": "2026-07-29",
-      "total": 51,
-      "present": 46,
+      "date": "2026-07-30",
+      "total": 52,
+      "present": 47,
       "absent": 5,
       "op": {
         "total": 24,
@@ -346,16 +346,16 @@
         "maternity": ""
       },
       "os": {
-        "total": 27,
-        "present": 23,
+        "total": 28,
+        "present": 24,
         "absent": 4,
-        "permit": "Thụ , Ngọc",
-        "no_permit": "Nguyệt , Duy",
+        "permit": "Long , Nguyệt",
+        "no_permit": "Phu , Thành",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-07-29",
+      "date": "2026-07-30",
       "total": 0,
       "present": 0,
       "absent": 0,
@@ -414,12 +414,12 @@
     ],
     "overall": {
       "earned_hours": 1200.0,
-      "actual_hours": 2024,
-      "base_hours": 2024,
+      "actual_hours": 2068,
+      "base_hours": 2068,
       "ot_hours": 0,
-      "headcount_present": 46,
+      "headcount_present": 47,
       "std_hours_per_person": 44,
-      "efficiency_pct": 59.3
+      "efficiency_pct": 58.0
     }
   },
   "model_kpi_daily": {
@@ -452,12 +452,12 @@
     ],
     "overall": {
       "earned_hours": 413.0,
-      "actual_hours": 337.3,
-      "base_hours": 337.3,
+      "actual_hours": 344.7,
+      "base_hours": 344.7,
       "ot_hours": 0,
-      "headcount_present": 46,
+      "headcount_present": 47,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 122.4
+      "efficiency_pct": 119.8
     }
   },
   "daily_hpu": {
@@ -674,7 +674,7 @@
       "week": 31,
       "plan": 1091,
       "actual": 572,
-      "updated": "2026-07-30 07:00:03"
+      "updated": "2026-07-30 08:02:39"
     },
     "32": {
       "week": 32,
@@ -896,6 +896,19 @@
         "night_total": 0,
         "night_absent": 0,
         "updated": "2026-07-30 07:00:03"
+      },
+      "2026-07-30": {
+        "date": "2026-07-30",
+        "total_all": 52,
+        "op_total": 24,
+        "os_total": 28,
+        "day_present": 47,
+        "day_total": 52,
+        "day_absent": 5,
+        "night_present": 0,
+        "night_total": 0,
+        "night_absent": 0,
+        "updated": "2026-07-30 08:02:39"
       }
     },
     "34": {

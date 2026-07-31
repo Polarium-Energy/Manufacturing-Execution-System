@@ -12,6 +12,15 @@
     "id": 2,
     "time": "2026-07-31",
     "type": "other",
+    "model": "800-00350 P5 plus",
+    "description": "7pcs backlog due to shortage the income material",
+    "duration_min": null,
+    "source": "file"
+  },
+  {
+    "id": 3,
+    "time": "2026-07-31",
+    "type": "other",
     "model": "880-00180 P1",
     "description": "Controller Kit",
     "duration_min": null,

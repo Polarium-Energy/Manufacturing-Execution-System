@@ -1,16 +1,16 @@
 {
-  "last_update": "2026-07-31 08:50:02",
+  "last_update": "2026-07-31 08:55:49",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "week": 31,
   "total": {
     "planned": 1091,
     "backlog": -92,
     "total_plan": 999,
-    "produced": 762,
-    "rate": 0.7627627627627628
+    "produced": 819,
+    "rate": 0.8198198198198198
   },
   "day_dates": {
     "Mon": "2026-07-27",
@@ -27,14 +27,14 @@
       "planned": 450,
       "backlog": 8,
       "total_plan": 458,
-      "produced": 371,
-      "rate": 0.8100436681222707,
+      "produced": 386,
+      "rate": 0.8427947598253275,
       "daily": {
         "Mon": 89,
         "Tue": 91,
         "Wed": 97,
         "Thu": 94,
-        "Fri": 0,
+        "Fri": 15,
         "Sat": 0,
         "Sun": 0
       },
@@ -63,14 +63,14 @@
       "planned": 310,
       "backlog": -50,
       "total_plan": 260,
-      "produced": 210,
-      "rate": 0.8076923076923077,
+      "produced": 252,
+      "rate": 0.9692307692307692,
       "daily": {
         "Mon": 48,
         "Tue": 48,
         "Wed": 48,
         "Thu": 66,
-        "Fri": 0,
+        "Fri": 42,
         "Sat": 0,
         "Sun": 0
       },
@@ -115,7 +115,7 @@
   ],
   "hpu": {
     "total": 0,
-    "day_shift": 2.2086614173228347,
+    "day_shift": 2.0549450549450547,
     "night_shift": 0,
     "daily": {
       "Mon": 0,
@@ -144,7 +144,7 @@
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 2.2086614173228347,
+    "accumulate_total": 2.0549450549450547,
     "accumulate_daily": {
       "Mon": 2.4414893617021276,
       "Tue": 2.0476190476190474,
@@ -381,19 +381,19 @@
     "by_model": [
       {
         "model": "LFP Large",
-        "actual": 372,
+        "actual": 387,
         "target": 451,
-        "productivity_pct": 82.5,
+        "productivity_pct": 85.8,
         "hpu": 3,
-        "earned_hours": 1116
+        "earned_hours": 1161
       },
       {
         "model": "Morlus",
-        "actual": 210,
+        "actual": 252,
         "target": 310,
-        "productivity_pct": 67.7,
+        "productivity_pct": 81.3,
         "hpu": 1.5,
-        "earned_hours": 315.0
+        "earned_hours": 378.0
       },
       {
         "model": "Kit&Spare",
@@ -413,35 +413,35 @@
       }
     ],
     "overall": {
-      "earned_hours": 1611.0,
+      "earned_hours": 1719.0,
       "actual_hours": 2156,
       "base_hours": 2156,
       "ot_hours": 0,
       "headcount_present": 49,
       "std_hours_per_person": 44,
-      "efficiency_pct": 74.7
+      "efficiency_pct": 79.7
     }
   },
   "model_kpi_daily": {
-    "day": "Thu",
+    "day": "Fri",
     "by_model": [
       {
-        "model": "LFP Large",
-        "actual": 94,
-        "hpu": 3,
-        "earned_hours": 282
+        "model": "Morlus",
+        "actual": 42,
+        "hpu": 1.5,
+        "earned_hours": 63.0
       },
       {
-        "model": "Morlus",
-        "actual": 66,
-        "hpu": 1.5,
-        "earned_hours": 99.0
+        "model": "LFP Large",
+        "actual": 15,
+        "hpu": 3,
+        "earned_hours": 45
       },
       {
         "model": "Kit&Spare",
-        "actual": 30,
+        "actual": 0,
         "hpu": 1,
-        "earned_hours": 30
+        "earned_hours": 0
       },
       {
         "model": "Khác",
@@ -451,13 +451,13 @@
       }
     ],
     "overall": {
-      "earned_hours": 411.0,
+      "earned_hours": 108.0,
       "actual_hours": 359.3,
       "base_hours": 359.3,
       "ot_hours": 0,
       "headcount_present": 49,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 114.4
+      "efficiency_pct": 30.1
     }
   },
   "daily_hpu": {
@@ -465,17 +465,17 @@
     "Tue": 2.0476190476190474,
     "Wed": 2.123076923076923,
     "Thu": 2.2263157894736842,
-    "Fri": null,
+    "Fri": 1.89,
     "Sat": null,
     "Sun": null
   },
-  "hpu_target": 2.11,
+  "hpu_target": 2.1,
   "daily_hpu_target": {
     "Mon": 2.09,
     "Tue": 2.09,
     "Wed": 2.12,
     "Thu": 2.16,
-    "Fri": null,
+    "Fri": 1.89,
     "Sat": null,
     "Sun": null
   },
@@ -484,11 +484,11 @@
     "Tue": 102.1,
     "Wed": 99.9,
     "Thu": 97.0,
-    "Fri": null,
+    "Fri": 100.0,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 95.5,
+  "week_efficiency_hpu": 102.2,
   "history": {
     "26": {
       "week": 26,
@@ -673,8 +673,8 @@
     "31": {
       "week": 31,
       "plan": 1091,
-      "actual": 762,
-      "updated": "2026-07-31 08:50:01"
+      "actual": 819,
+      "updated": "2026-07-31 08:55:48"
     },
     "32": {
       "week": 32,
@@ -921,7 +921,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-07-31 08:50:01"
+        "updated": "2026-07-31 08:55:48"
       }
     },
     "34": {

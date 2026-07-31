@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-31 07:53:59",
+  "last_update": "2026-07-31 08:05:50",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -333,10 +333,10 @@
     "op_total": 24,
     "os_total": 28,
     "day_shift": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "total": 52,
-      "present": 47,
-      "absent": 5,
+      "present": 49,
+      "absent": 3,
       "op": {
         "total": 24,
         "present": 23,
@@ -347,15 +347,15 @@
       },
       "os": {
         "total": 28,
-        "present": 24,
-        "absent": 4,
-        "permit": "Long , Nguyệt",
-        "no_permit": "Phu , Thành",
+        "present": 26,
+        "absent": 2,
+        "permit": "Nguyệt , Thành",
+        "no_permit": "",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-07-30",
+      "date": "2026-07-31",
       "total": 0,
       "present": 0,
       "absent": 0,
@@ -414,12 +414,12 @@
     ],
     "overall": {
       "earned_hours": 1611.0,
-      "actual_hours": 2068,
-      "base_hours": 2068,
+      "actual_hours": 2156,
+      "base_hours": 2156,
       "ot_hours": 0,
-      "headcount_present": 47,
+      "headcount_present": 49,
       "std_hours_per_person": 44,
-      "efficiency_pct": 77.9
+      "efficiency_pct": 74.7
     }
   },
   "model_kpi_daily": {
@@ -452,12 +452,12 @@
     ],
     "overall": {
       "earned_hours": 411.0,
-      "actual_hours": 344.7,
-      "base_hours": 344.7,
+      "actual_hours": 359.3,
+      "base_hours": 359.3,
       "ot_hours": 0,
-      "headcount_present": 47,
+      "headcount_present": 49,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 119.2
+      "efficiency_pct": 114.4
     }
   },
   "daily_hpu": {
@@ -674,7 +674,7 @@
       "week": 31,
       "plan": 1091,
       "actual": 762,
-      "updated": "2026-07-31 07:53:59"
+      "updated": "2026-07-31 08:05:50"
     },
     "32": {
       "week": 32,
@@ -909,6 +909,19 @@
         "night_total": 0,
         "night_absent": 0,
         "updated": "2026-07-31 07:53:59"
+      },
+      "2026-07-31": {
+        "date": "2026-07-31",
+        "total_all": 52,
+        "op_total": 24,
+        "os_total": 28,
+        "day_present": 49,
+        "day_total": 52,
+        "day_absent": 3,
+        "night_present": 0,
+        "night_total": 0,
+        "night_absent": 0,
+        "updated": "2026-07-31 08:05:50"
       }
     },
     "34": {

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-31 15:08:05",
+  "last_update": "2026-07-31 15:25:49",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -9,8 +9,8 @@
     "planned": 1091,
     "backlog": -92,
     "total_plan": 999,
-    "produced": 864,
-    "rate": 0.8648648648648649
+    "produced": 885,
+    "rate": 0.8858858858858859
   },
   "day_dates": {
     "Mon": "2026-07-27",
@@ -63,14 +63,14 @@
       "planned": 310,
       "backlog": -50,
       "total_plan": 260,
-      "produced": 232,
-      "rate": 0.8923076923076924,
+      "produced": 253,
+      "rate": 0.9730769230769231,
       "daily": {
         "Mon": 48,
         "Tue": 48,
         "Wed": 48,
         "Thu": 66,
-        "Fri": 22,
+        "Fri": 43,
         "Sat": 0,
         "Sun": 0
       },
@@ -115,7 +115,7 @@
   ],
   "hpu": {
     "total": 0,
-    "day_shift": 2.4016203703703702,
+    "day_shift": 2.3446327683615817,
     "night_shift": 0,
     "daily": {
       "Mon": 0,
@@ -131,7 +131,7 @@
       "Tue": 2.0476190476190474,
       "Wed": 2.225806451612903,
       "Thu": 2.2620320855614975,
-      "Fri": 3.43859649122807,
+      "Fri": 2.903703703703704,
       "Sat": 0,
       "Sun": 0
     },
@@ -144,13 +144,13 @@
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 2.4016203703703702,
+    "accumulate_total": 2.3446327683615817,
     "accumulate_daily": {
       "Mon": 2.4414893617021276,
       "Tue": 2.0476190476190474,
       "Wed": 2.225806451612903,
       "Thu": 2.2620320855614975,
-      "Fri": 3.43859649122807,
+      "Fri": 2.903703703703704,
       "Sat": 0,
       "Sun": 0
     }
@@ -389,11 +389,11 @@
       },
       {
         "model": "Morlus",
-        "actual": 232,
+        "actual": 253,
         "target": 310,
-        "productivity_pct": 74.8,
+        "productivity_pct": 81.6,
         "hpu": 1.5,
-        "earned_hours": 348.0
+        "earned_hours": 379.5
       },
       {
         "model": "Kit&Spare",
@@ -413,13 +413,13 @@
       }
     ],
     "overall": {
-      "earned_hours": 1884.0,
+      "earned_hours": 1915.5,
       "actual_hours": 2156,
       "base_hours": 2156,
       "ot_hours": 0,
       "headcount_present": 49,
       "std_hours_per_person": 44,
-      "efficiency_pct": 87.4
+      "efficiency_pct": 88.8
     }
   },
   "model_kpi_daily": {
@@ -433,9 +433,9 @@
       },
       {
         "model": "Morlus",
-        "actual": 22,
+        "actual": 43,
         "hpu": 1.5,
-        "earned_hours": 33.0
+        "earned_hours": 64.5
       },
       {
         "model": "Kit&Spare",
@@ -451,13 +451,13 @@
       }
     ],
     "overall": {
-      "earned_hours": 309.0,
+      "earned_hours": 340.5,
       "actual_hours": 359.3,
       "base_hours": 359.3,
       "ot_hours": 0,
       "headcount_present": 49,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 86.0
+      "efficiency_pct": 94.8
     }
   },
   "daily_hpu": {
@@ -465,17 +465,17 @@
     "Tue": 2.0476190476190474,
     "Wed": 2.225806451612903,
     "Thu": 2.2620320855614975,
-    "Fri": 3.43859649122807,
+    "Fri": 2.903703703703704,
     "Sat": null,
     "Sun": null
   },
-  "hpu_target": 2.18,
+  "hpu_target": 2.16,
   "daily_hpu_target": {
     "Mon": 2.09,
     "Tue": 2.09,
     "Wed": 2.08,
     "Thu": 2.15,
-    "Fri": 2.71,
+    "Fri": 2.52,
     "Sat": null,
     "Sun": null
   },
@@ -484,11 +484,11 @@
     "Tue": 102.1,
     "Wed": 93.4,
     "Thu": 95.0,
-    "Fri": 78.8,
+    "Fri": 86.8,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 90.8,
+  "week_efficiency_hpu": 92.1,
   "history": {
     "26": {
       "week": 26,
@@ -673,8 +673,8 @@
     "31": {
       "week": 31,
       "plan": 1091,
-      "actual": 864,
-      "updated": "2026-07-31 15:08:05"
+      "actual": 885,
+      "updated": "2026-07-31 15:25:49"
     },
     "32": {
       "week": 32,
@@ -921,7 +921,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-07-31 15:08:05"
+        "updated": "2026-07-31 15:25:49"
       }
     },
     "34": {

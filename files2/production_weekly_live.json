@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-31 15:25:49",
+  "last_update": "2026-07-31 15:28:43",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -74,7 +74,7 @@
         "Sat": 0,
         "Sun": 0
       },
-      "note": ""
+      "note": "7pcs backlog due to shortage the income material"
     },
     {
       "sku": "800-00357 P1",
@@ -674,7 +674,7 @@
       "week": 31,
       "plan": 1091,
       "actual": 885,
-      "updated": "2026-07-31 15:25:49"
+      "updated": "2026-07-31 15:28:42"
     },
     "32": {
       "week": 32,
@@ -921,7 +921,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-07-31 15:25:49"
+        "updated": "2026-07-31 15:28:42"
       }
     },
     "34": {

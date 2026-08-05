@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-05 15:15:19",
+  "last_update": "2026-08-05 15:17:56",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -220,9 +220,9 @@
     "30": 1414,
     "31": 1091,
     "32": 1029,
-    "33": 818,
-    "34": 836,
-    "35": 895,
+    "33": 718,
+    "34": 736,
+    "35": 766,
     "36": 458,
     "37": 700,
     "38": 700
@@ -319,12 +319,6 @@
       "qty": 100
     },
     {
-      "sku": "800-00314 R06",
-      "item": "800-00314",
-      "description": "Battery Polarium LFP G5 19\"4U 230Ah 15S 1pole",
-      "qty": 98
-    },
-    {
       "sku": "800-00037 R21",
       "item": "800-00037",
       "description": "Battery Polarium NMC G5 19\" 2U 50Ah 13S 2pole",
@@ -335,12 +329,6 @@
       "item": "800-00037",
       "description": "Battery Polarium NMC G5 19\" 2U 50Ah 13S 2pole",
       "qty": 10
-    },
-    {
-      "sku": "800-00327 R06",
-      "item": "800-00327",
-      "description": "Battery Nokia LFP G5 19\"4U 230Ah 15S 1pole",
-      "qty": 2
     }
   ],
   "plan_detail_next_week_num": 33,
@@ -352,7 +340,7 @@
     "2026-05": 5230,
     "2026-06": 5823,
     "2026-07": 4827,
-    "2026-08": 4036,
+    "2026-08": 3707,
     "2026-09": 2727,
     "2026-10": 2100,
     "2026-11": 1000,
@@ -726,11 +714,11 @@
       "week": 32,
       "plan": 1029,
       "actual": 331,
-      "updated": "2026-08-05 15:15:19"
+      "updated": "2026-08-05 15:17:56"
     },
     "33": {
       "week": 33,
-      "plan": 818,
+      "plan": 718,
       "actual": null,
       "updated": "2026-07-03 15:22:25"
     },
@@ -980,18 +968,18 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-05 15:15:19"
+        "updated": "2026-08-05 15:17:56"
       }
     },
     "34": {
       "week": 34,
-      "plan": 836,
+      "plan": 736,
       "actual": null,
       "updated": "2026-07-06 13:22:43"
     },
     "35": {
       "week": 35,
-      "plan": 895,
+      "plan": 766,
       "actual": null,
       "updated": "2026-07-13 08:03:58"
     },

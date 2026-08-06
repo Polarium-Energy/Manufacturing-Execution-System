@@ -1,16 +1,16 @@
 {
-  "last_update": "2026-08-06 00:38:38",
+  "last_update": "2026-08-06 08:01:08",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "week": 32,
   "total": {
     "planned": 1029,
     "backlog": 107,
     "total_plan": 1136,
-    "produced": 498,
-    "rate": 0.43838028169014087
+    "produced": 504,
+    "rate": 0.44366197183098594
   },
   "day_dates": {
     "Mon": "2026-08-03",
@@ -77,16 +77,16 @@
       "note": ""
     },
     {
-      "sku": "800-00042 P19",
+      "sku": "800-00042 P20",
       "planned": 90,
       "backlog": 0,
       "total_plan": 90,
-      "produced": 0,
-      "rate": 0,
+      "produced": 6,
+      "rate": 0.06666666666666667,
       "daily": {
         "Mon": 0,
         "Tue": 0,
-        "Wed": 0,
+        "Wed": 6,
         "Thu": 0,
         "Fri": 0,
         "Sat": 0,
@@ -132,14 +132,14 @@
     }
   ],
   "hpu": {
-    "total": 53,
+    "total": 50,
     "day_shift": 0,
-    "night_shift": 2.5481927710843375,
+    "night_shift": 3.357142857142857,
     "daily": {
       "Mon": 40,
       "Tue": 50,
       "Wed": 51,
-      "Thu": 0,
+      "Thu": 47,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
@@ -156,17 +156,17 @@
     "daily_night": {
       "Mon": 2.1951219512195124,
       "Tue": 2.694610778443114,
-      "Wed": 2.748502994011976,
+      "Wed": 2.653179190751445,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 2.5481927710843375,
+    "accumulate_total": 3.357142857142857,
     "accumulate_daily": {
       "Mon": 2.1951219512195124,
       "Tue": 2.694610778443114,
-      "Wed": 2.748502994011976,
+      "Wed": 2.653179190751445,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
@@ -349,14 +349,14 @@
   "manpower": {
     "source": "DANH SÁCH NHÂN LỰC.xlsx — sheet sĩ số",
     "week": 32,
-    "total_all": 52,
+    "total_all": 50,
     "op_total": 23,
-    "os_total": 29,
+    "os_total": 27,
     "day_shift": {
-      "date": "2026-08-05",
-      "total": 52,
-      "present": 51,
-      "absent": 1,
+      "date": "2026-08-06",
+      "total": 50,
+      "present": 47,
+      "absent": 3,
       "op": {
         "total": 23,
         "present": 23,
@@ -366,16 +366,16 @@
         "maternity": ""
       },
       "os": {
-        "total": 29,
-        "present": 28,
-        "absent": 1,
-        "permit": "Quang",
-        "no_permit": "",
+        "total": 27,
+        "present": 24,
+        "absent": 3,
+        "permit": "Nhàn , Tám",
+        "no_permit": "Cảnh",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-08-05",
+      "date": "2026-08-06",
       "total": 0,
       "present": 0,
       "absent": 0,
@@ -417,11 +417,11 @@
       },
       {
         "model": "G5-NMC",
-        "actual": 10,
+        "actual": 16,
         "target": 100,
-        "productivity_pct": 10.0,
+        "productivity_pct": 16.0,
         "hpu": 2.9,
-        "earned_hours": 29.0
+        "earned_hours": 46.4
       },
       {
         "model": "Morlus",
@@ -441,35 +441,35 @@
       }
     ],
     "overall": {
-      "earned_hours": 773.0,
-      "actual_hours": 2244,
-      "base_hours": 2244,
+      "earned_hours": 790.4,
+      "actual_hours": 2068,
+      "base_hours": 2068,
       "ot_hours": 0,
-      "headcount_present": 51,
+      "headcount_present": 47,
       "std_hours_per_person": 44,
-      "efficiency_pct": 34.4
+      "efficiency_pct": 38.2
     }
   },
   "model_kpi_daily": {
-    "day": "Wed",
+    "day": "Thu",
     "by_model": [
       {
-        "model": "Kit&Spare",
-        "actual": 120,
-        "hpu": 1,
-        "earned_hours": 120
+        "model": "LFP Large",
+        "actual": 0,
+        "hpu": 3,
+        "earned_hours": 0
       },
       {
-        "model": "LFP Large",
-        "actual": 42,
-        "hpu": 3,
-        "earned_hours": 126
+        "model": "Kit&Spare",
+        "actual": 0,
+        "hpu": 1,
+        "earned_hours": 0
       },
       {
         "model": "G5-NMC",
-        "actual": 5,
+        "actual": 0,
         "hpu": 2.9,
-        "earned_hours": 14.5
+        "earned_hours": 0.0
       },
       {
         "model": "Morlus",
@@ -485,29 +485,29 @@
       }
     ],
     "overall": {
-      "earned_hours": 260.5,
-      "actual_hours": 374.0,
-      "base_hours": 374.0,
+      "earned_hours": 0.0,
+      "actual_hours": 344.7,
+      "base_hours": 344.7,
       "ot_hours": 0,
-      "headcount_present": 51,
+      "headcount_present": 47,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 69.7
+      "efficiency_pct": 0.0
     }
   },
   "daily_hpu": {
     "Mon": 2.1951219512195124,
     "Tue": 2.694610778443114,
-    "Wed": 2.748502994011976,
+    "Wed": 2.653179190751445,
     "Thu": null,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "hpu_target": 1.55,
+  "hpu_target": 1.57,
   "daily_hpu_target": {
     "Mon": 1.54,
     "Tue": 1.56,
-    "Wed": 1.56,
+    "Wed": 1.61,
     "Thu": null,
     "Fri": null,
     "Sat": null,
@@ -516,13 +516,13 @@
   "daily_efficiency": {
     "Mon": 70.2,
     "Tue": 57.9,
-    "Wed": 56.8,
+    "Wed": 60.7,
     "Thu": null,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 60.8,
+  "week_efficiency_hpu": 46.8,
   "history": {
     "26": {
       "week": 26,
@@ -713,8 +713,8 @@
     "32": {
       "week": 32,
       "plan": 1029,
-      "actual": 498,
-      "updated": "2026-08-06 00:38:38"
+      "actual": 504,
+      "updated": "2026-08-06 08:01:08"
     },
     "33": {
       "week": 33,
@@ -969,6 +969,19 @@
         "night_total": 0,
         "night_absent": 0,
         "updated": "2026-08-06 00:38:38"
+      },
+      "2026-08-06": {
+        "date": "2026-08-06",
+        "total_all": 50,
+        "op_total": 23,
+        "os_total": 27,
+        "day_present": 47,
+        "day_total": 50,
+        "day_absent": 3,
+        "night_present": 0,
+        "night_total": 0,
+        "night_absent": 0,
+        "updated": "2026-08-06 08:01:08"
       }
     },
     "34": {

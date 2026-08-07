@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-08-07 07:25:03",
+  "last_update": "2026-08-07 08:11:37",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "week": 32,
   "total": {
     "planned": 1029,
@@ -451,25 +451,25 @@
     }
   },
   "model_kpi_daily": {
-    "day": "Thu",
+    "day": "Fri",
     "by_model": [
       {
-        "model": "Kit&Spare",
-        "actual": 120,
-        "hpu": 1,
-        "earned_hours": 120
+        "model": "LFP Large",
+        "actual": 0,
+        "hpu": 3,
+        "earned_hours": 0
       },
       {
-        "model": "LFP Large",
-        "actual": 60,
-        "hpu": 3,
-        "earned_hours": 180
+        "model": "Kit&Spare",
+        "actual": 0,
+        "hpu": 1,
+        "earned_hours": 0
       },
       {
         "model": "G5-NMC",
-        "actual": 18,
+        "actual": 0,
         "hpu": 2.9,
-        "earned_hours": 52.2
+        "earned_hours": 0.0
       },
       {
         "model": "Morlus",
@@ -485,13 +485,13 @@
       }
     ],
     "overall": {
-      "earned_hours": 352.2,
+      "earned_hours": 0.0,
       "actual_hours": 344.7,
       "base_hours": 344.7,
       "ot_hours": 0,
       "headcount_present": 47,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 102.2
+      "efficiency_pct": 0.0
     }
   },
   "daily_hpu": {
@@ -714,7 +714,7 @@
       "week": 32,
       "plan": 1029,
       "actual": 702,
-      "updated": "2026-08-07 07:25:03"
+      "updated": "2026-08-07 08:11:37"
     },
     "33": {
       "week": 33,
@@ -994,7 +994,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-07 07:25:03"
+        "updated": "2026-08-07 08:11:37"
       }
     },
     "34": {

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-12 19:32:08",
+  "last_update": "2026-08-13 08:03:52",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -343,29 +343,29 @@
     "op_total": 23,
     "os_total": 25,
     "day_shift": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "total": 48,
-      "present": 42,
-      "absent": 6,
+      "present": 46,
+      "absent": 2,
       "op": {
         "total": 23,
-        "present": 19,
-        "absent": 4,
-        "permit": "Đại , Thắng, Tuyết",
-        "no_permit": "Quyên",
+        "present": 23,
+        "absent": 0,
+        "permit": "",
+        "no_permit": "",
         "maternity": ""
       },
       "os": {
         "total": 25,
         "present": 23,
         "absent": 2,
-        "permit": "Nam",
-        "no_permit": "Bách",
+        "permit": "Thuận , Quang",
+        "no_permit": "",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-08-12",
+      "date": "2026-08-13",
       "total": 0,
       "present": 0,
       "absent": 0,
@@ -432,12 +432,12 @@
     ],
     "overall": {
       "earned_hours": 739.7,
-      "actual_hours": 1848,
-      "base_hours": 1848,
+      "actual_hours": 2024,
+      "base_hours": 2024,
       "ot_hours": 0,
-      "headcount_present": 42,
+      "headcount_present": 46,
       "std_hours_per_person": 44,
-      "efficiency_pct": 40.0
+      "efficiency_pct": 36.5
     }
   },
   "model_kpi_daily": {
@@ -476,12 +476,12 @@
     ],
     "overall": {
       "earned_hours": 258.0,
-      "actual_hours": 308.0,
-      "base_hours": 308.0,
+      "actual_hours": 337.3,
+      "base_hours": 337.3,
       "ot_hours": 0,
-      "headcount_present": 42,
+      "headcount_present": 46,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 83.8
+      "efficiency_pct": 76.5
     }
   },
   "daily_hpu": {
@@ -710,7 +710,7 @@
       "week": 33,
       "plan": 718,
       "actual": 361,
-      "updated": "2026-08-12 19:32:08"
+      "updated": "2026-08-13 08:03:52"
     },
     "manpower_daily": {
       "2026-07-03": {
@@ -998,6 +998,19 @@
         "night_total": 0,
         "night_absent": 0,
         "updated": "2026-08-12 19:32:08"
+      },
+      "2026-08-13": {
+        "date": "2026-08-13",
+        "total_all": 48,
+        "op_total": 23,
+        "os_total": 25,
+        "day_present": 46,
+        "day_total": 48,
+        "day_absent": 2,
+        "night_present": 0,
+        "night_total": 0,
+        "night_absent": 0,
+        "updated": "2026-08-13 08:03:52"
       }
     },
     "34": {

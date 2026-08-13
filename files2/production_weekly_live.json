@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13 15:59:52",
+  "last_update": "2026-08-13 16:05:49",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -514,491 +514,241 @@
   },
   "week_efficiency_hpu": 74.1,
   "history": {
-    "26": {
-      "week": 26,
-      "plan": 1205,
-      "actual": 611,
-      "updated": "2026-06-29 08:33:17"
-    },
-    "15": {
-      "week": 15,
-      "plan": 3422,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "16": {
-      "week": 16,
-      "plan": 1155,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "17": {
-      "week": 17,
-      "plan": 441,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "18": {
-      "week": 18,
-      "plan": 424,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "19": {
-      "week": 19,
-      "plan": 1061,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "20": {
-      "week": 20,
-      "plan": 1128,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "21": {
-      "week": 21,
-      "plan": 1252,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "22": {
-      "week": 22,
-      "plan": 1789,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "23": {
-      "week": 23,
-      "plan": 903,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "24": {
-      "week": 24,
-      "plan": 1150,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "25": {
-      "week": 25,
-      "plan": 1385,
-      "actual": null,
-      "updated": "2026-06-22 14:10:00"
-    },
-    "27": {
-      "week": 27,
-      "plan": 1180,
-      "actual": 1178,
-      "updated": "2026-07-06 13:19:50"
+    "33": {
+      "week": 33,
+      "plan": 718,
+      "actual": 540,
+      "updated": "2026-08-13 16:05:49"
     },
     "1": {
       "week": 1,
       "plan": 0,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "2": {
       "week": 2,
       "plan": 0,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "3": {
       "week": 3,
       "plan": 530,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "4": {
       "week": 4,
       "plan": 1051,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "5": {
       "week": 5,
       "plan": 580,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "6": {
       "week": 6,
       "plan": 875,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "7": {
       "week": 7,
       "plan": 100,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "8": {
       "week": 8,
       "plan": 1008,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "9": {
       "week": 9,
       "plan": 440,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "10": {
       "week": 10,
       "plan": 1095,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "11": {
       "week": 11,
       "plan": 1688,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "12": {
       "week": 12,
       "plan": 1852,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "13": {
       "week": 13,
       "plan": 2239,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
     },
     "14": {
       "week": 14,
       "plan": 1934,
       "actual": null,
-      "updated": "2026-07-03 15:22:25"
+      "updated": "2026-08-13 16:05:49"
+    },
+    "15": {
+      "week": 15,
+      "plan": 3422,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "16": {
+      "week": 16,
+      "plan": 1155,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "17": {
+      "week": 17,
+      "plan": 441,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "18": {
+      "week": 18,
+      "plan": 424,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "19": {
+      "week": 19,
+      "plan": 1061,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "20": {
+      "week": 20,
+      "plan": 1128,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "21": {
+      "week": 21,
+      "plan": 1252,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "22": {
+      "week": 22,
+      "plan": 1789,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "23": {
+      "week": 23,
+      "plan": 903,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "24": {
+      "week": 24,
+      "plan": 1150,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "25": {
+      "week": 25,
+      "plan": 1385,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "26": {
+      "week": 26,
+      "plan": 1205,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "27": {
+      "week": 27,
+      "plan": 1180,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
     },
     "28": {
       "week": 28,
       "plan": 1172,
-      "actual": 671,
-      "updated": "2026-07-10 16:50:23"
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
     },
     "29": {
       "week": 29,
       "plan": 1150,
-      "actual": 835,
-      "updated": "2026-07-19 19:30:23"
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
     },
     "30": {
       "week": 30,
       "plan": 1414,
-      "actual": 1388,
-      "updated": "2026-07-27 00:55:44"
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
     },
     "31": {
       "week": 31,
       "plan": 1091,
-      "actual": 892,
-      "updated": "2026-08-05 09:12:46"
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
     },
     "32": {
       "week": 32,
       "plan": 1029,
-      "actual": 904,
-      "updated": "2026-08-12 17:56:55"
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
     },
-    "33": {
-      "week": 33,
-      "plan": 718,
-      "actual": 540,
-      "updated": "2026-08-13 15:59:52"
+    "34": {
+      "week": 34,
+      "plan": 636,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "35": {
+      "week": 35,
+      "plan": 766,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "36": {
+      "week": 36,
+      "plan": 458,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "37": {
+      "week": 37,
+      "plan": 800,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "38": {
+      "week": 38,
+      "plan": 796,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
+    },
+    "39": {
+      "week": 39,
+      "plan": 790,
+      "actual": null,
+      "updated": "2026-08-13 16:05:49"
     },
     "manpower_daily": {
-      "2026-07-03": {
-        "date": "2026-07-03",
-        "total_all": 65,
-        "op_total": 24,
-        "os_total": 41,
-        "day_present": 36,
-        "day_total": 41,
-        "day_absent": 5,
-        "night_present": 24,
-        "night_total": 24,
-        "night_absent": 0,
-        "updated": "2026-07-07 02:47:44"
-      },
-      "2026-07-07": {
-        "date": "2026-07-07",
-        "total_all": 62,
-        "op_total": 24,
-        "os_total": 38,
-        "day_present": 33,
-        "day_total": 38,
-        "day_absent": 5,
-        "night_present": 24,
-        "night_total": 24,
-        "night_absent": 0,
-        "updated": "2026-07-08 00:00:28"
-      },
-      "2026-07-08": {
-        "date": "2026-07-08",
-        "total_all": 59,
-        "op_total": 24,
-        "os_total": 35,
-        "day_present": 34,
-        "day_total": 35,
-        "day_absent": 3,
-        "night_present": 24,
-        "night_total": 24,
-        "night_absent": 0,
-        "updated": "2026-07-09 07:09:53"
-      },
-      "2026-07-09": {
-        "date": "2026-07-09",
-        "total_all": 59,
-        "op_total": 24,
-        "os_total": 35,
-        "day_present": 32,
-        "day_total": 35,
-        "day_absent": 3,
-        "night_present": 24,
-        "night_total": 24,
-        "night_absent": 0,
-        "updated": "2026-07-10 05:15:13"
-      },
-      "2026-07-10": {
-        "date": "2026-07-10",
-        "total_all": 59,
-        "op_total": 24,
-        "os_total": 35,
-        "day_present": 33,
-        "day_total": 35,
-        "day_absent": 2,
-        "night_present": 24,
-        "night_total": 24,
-        "night_absent": 0,
-        "updated": "2026-07-13 08:21:54"
-      },
-      "2026-07-13": {
-        "date": "2026-07-13",
-        "total_all": 61,
-        "op_total": 24,
-        "os_total": 37,
-        "day_present": 32,
-        "day_total": 36,
-        "day_absent": 5,
-        "night_present": 24,
-        "night_total": 24,
-        "night_absent": 0,
-        "updated": "2026-07-13 16:48:26"
-      },
-      "2026-07-14": {
-        "date": "2026-07-14",
-        "total_all": 61,
-        "op_total": 24,
-        "os_total": 37,
-        "day_present": 32,
-        "day_total": 36,
-        "day_absent": 5,
-        "night_present": 24,
-        "night_total": 25,
-        "night_absent": 1,
-        "updated": "2026-07-15 08:01:41"
-      },
-      "2026-07-15": {
-        "date": "2026-07-15",
-        "total_all": 61,
-        "op_total": 24,
-        "os_total": 37,
-        "day_present": 32,
-        "day_total": 36,
-        "day_absent": 5,
-        "night_present": 24,
-        "night_total": 24,
-        "night_absent": 0,
-        "updated": "2026-07-16 03:54:33"
-      },
-      "2026-07-16": {
-        "date": "2026-07-16",
-        "total_all": 60,
-        "op_total": 24,
-        "os_total": 36,
-        "day_present": 36,
-        "day_total": 36,
-        "day_absent": 0,
-        "night_present": 24,
-        "night_total": 24,
-        "night_absent": 0,
-        "updated": "2026-07-16 20:50:41"
-      },
-      "2026-07-17": {
-        "date": "2026-07-17",
-        "total_all": 60,
-        "op_total": 24,
-        "os_total": 36,
-        "day_present": 34,
-        "day_total": 36,
-        "day_absent": 2,
-        "night_present": 23,
-        "night_total": 24,
-        "night_absent": 1,
-        "updated": "2026-07-17 23:37:18"
-      },
-      "2026-07-18": {
-        "date": "2026-07-18",
-        "total_all": 60,
-        "op_total": 24,
-        "os_total": 36,
-        "day_present": 34,
-        "day_total": 36,
-        "day_absent": 2,
-        "night_present": 23,
-        "night_total": 24,
-        "night_absent": 1,
-        "updated": "2026-07-19 19:30:23"
-      },
-      "2026-07-21": {
-        "date": "2026-07-21",
-        "total_all": 58,
-        "op_total": 24,
-        "os_total": 34,
-        "day_present": 51,
-        "day_total": 53,
-        "day_absent": 2,
-        "night_present": 5,
-        "night_total": 5,
-        "night_absent": 0,
-        "updated": "2026-07-22 01:15:51"
-      },
-      "2026-07-22": {
-        "date": "2026-07-22",
-        "total_all": 57,
-        "op_total": 24,
-        "os_total": 33,
-        "day_present": 48,
-        "day_total": 52,
-        "day_absent": 4,
-        "night_present": 5,
-        "night_total": 5,
-        "night_absent": 0,
-        "updated": "2026-07-23 06:48:39"
-      },
-      "2026-07-23": {
-        "date": "2026-07-23",
-        "total_all": 56,
-        "op_total": 24,
-        "os_total": 32,
-        "day_present": 47,
-        "day_total": 51,
-        "day_absent": 4,
-        "night_present": 5,
-        "night_total": 5,
-        "night_absent": 0,
-        "updated": "2026-07-24 07:03:06"
-      },
-      "2026-07-24": {
-        "date": "2026-07-24",
-        "total_all": 55,
-        "op_total": 24,
-        "os_total": 31,
-        "day_present": 45,
-        "day_total": 50,
-        "day_absent": 5,
-        "night_present": 5,
-        "night_total": 5,
-        "night_absent": 0,
-        "updated": "2026-07-27 00:55:44"
-      },
-      "2026-07-29": {
-        "date": "2026-07-29",
-        "total_all": 51,
-        "op_total": 24,
-        "os_total": 27,
-        "day_present": 46,
-        "day_total": 51,
-        "day_absent": 5,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-07-30 07:00:03"
-      },
-      "2026-07-30": {
-        "date": "2026-07-30",
-        "total_all": 52,
-        "op_total": 24,
-        "os_total": 28,
-        "day_present": 47,
-        "day_total": 52,
-        "day_absent": 5,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-07-31 07:53:59"
-      },
-      "2026-07-31": {
-        "date": "2026-07-31",
-        "total_all": 52,
-        "op_total": 24,
-        "os_total": 28,
-        "day_present": 49,
-        "day_total": 52,
-        "day_absent": 3,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-05 09:12:46"
-      },
-      "2026-08-05": {
-        "date": "2026-08-05",
-        "total_all": 52,
-        "op_total": 23,
-        "os_total": 29,
-        "day_present": 51,
-        "day_total": 52,
-        "day_absent": 1,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-06 00:38:38"
-      },
-      "2026-08-06": {
-        "date": "2026-08-06",
-        "total_all": 50,
-        "op_total": 23,
-        "os_total": 27,
-        "day_present": 47,
-        "day_total": 50,
-        "day_absent": 3,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-07 07:03:38"
-      },
-      "2026-08-07": {
-        "date": "2026-08-07",
-        "total_all": 50,
-        "op_total": 23,
-        "os_total": 27,
-        "day_present": 47,
-        "day_total": 50,
-        "day_absent": 3,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-12 17:54:11"
-      },
-      "2026-08-12": {
-        "date": "2026-08-12",
-        "total_all": 48,
-        "op_total": 23,
-        "os_total": 25,
-        "day_present": 42,
-        "day_total": 48,
-        "day_absent": 6,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-12 19:32:08"
-      },
       "2026-08-13": {
         "date": "2026-08-13",
         "total_all": 48,
@@ -1010,44 +760,8 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-13 15:59:52"
+        "updated": "2026-08-13 16:05:49"
       }
-    },
-    "34": {
-      "week": 34,
-      "plan": 636,
-      "actual": null,
-      "updated": "2026-07-06 13:22:43"
-    },
-    "35": {
-      "week": 35,
-      "plan": 766,
-      "actual": null,
-      "updated": "2026-07-13 08:03:58"
-    },
-    "36": {
-      "week": 36,
-      "plan": 458,
-      "actual": null,
-      "updated": "2026-07-21 09:57:05"
-    },
-    "37": {
-      "week": 37,
-      "plan": 800,
-      "actual": null,
-      "updated": "2026-07-29 10:45:40"
-    },
-    "38": {
-      "week": 38,
-      "plan": 796,
-      "actual": null,
-      "updated": "2026-08-05 09:15:34"
-    },
-    "39": {
-      "week": 39,
-      "plan": 790,
-      "actual": null,
-      "updated": "2026-08-12 18:02:37"
     }
   },
   "issue_record": {

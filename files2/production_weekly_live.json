@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13 08:23:47",
+  "last_update": "2026-08-13 08:26:30",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -710,7 +710,7 @@
       "week": 33,
       "plan": 718,
       "actual": 361,
-      "updated": "2026-08-13 08:23:47"
+      "updated": "2026-08-13 08:26:30"
     },
     "manpower_daily": {
       "2026-07-03": {
@@ -1010,7 +1010,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-13 08:23:47"
+        "updated": "2026-08-13 08:26:30"
       }
     },
     "34": {

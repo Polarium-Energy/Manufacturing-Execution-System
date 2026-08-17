@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-17 15:00:09",
+  "last_update": "2026-08-17 15:06:10",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -258,8 +258,8 @@
     "32": 1029,
     "33": 718,
     "34": 636,
-    "35": 624,
-    "36": 400,
+    "35": 566,
+    "36": 458,
     "37": 980,
     "38": 841,
     "39": 940,
@@ -351,12 +351,6 @@
       "item": "800-00362",
       "description": "Battery ATC LFP G5 19\"4U 310Ah 15S 1pole",
       "qty": 100
-    },
-    {
-      "sku": "800-00106 R14",
-      "item": "800-00106",
-      "description": "Battery Polarium G5 19\" 4U 14S 200Ah 1pole",
-      "qty": 58
     },
     {
       "sku": "800-00311 R09",
@@ -760,17 +754,17 @@
       "week": 34,
       "plan": 636,
       "actual": 2,
-      "updated": "2026-08-17 15:00:09"
+      "updated": "2026-08-17 15:06:10"
     },
     "35": {
       "week": 35,
-      "plan": 624,
+      "plan": 566,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
     "36": {
       "week": 36,
-      "plan": 400,
+      "plan": 458,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -830,7 +824,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-17 15:00:09"
+        "updated": "2026-08-17 15:06:10"
       }
     },
     "40": {

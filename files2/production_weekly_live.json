@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-17 14:51:34",
+  "last_update": "2026-08-17 14:54:24",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -258,11 +258,11 @@
     "32": 1029,
     "33": 718,
     "34": 636,
-    "35": 766,
-    "36": 458,
-    "37": 880,
+    "35": 624,
+    "36": 400,
+    "37": 980,
     "38": 841,
-    "39": 840,
+    "39": 940,
     "40": 828
   },
   "weeks_range": [
@@ -335,12 +335,6 @@
   ],
   "plan_detail_next": [
     {
-      "sku": "800-00362 R02",
-      "item": "800-00362",
-      "description": "Battery ATC LFP G5 19\"4U 310Ah 15S 1pole",
-      "qty": 300
-    },
-    {
       "sku": "800-00334 R10",
       "item": "800-00334",
       "description": "Battery Polarium LFP G5 19\" 4U 150Ah 15S 1pole",
@@ -351,6 +345,18 @@
       "item": "800-00314",
       "description": "Battery Polarium LFP G5 19\"4U 230Ah 15S 1pole",
       "qty": 200
+    },
+    {
+      "sku": "800-00362 R02",
+      "item": "800-00362",
+      "description": "Battery ATC LFP G5 19\"4U 310Ah 15S 1pole",
+      "qty": 100
+    },
+    {
+      "sku": "800-00106 R14",
+      "item": "800-00106",
+      "description": "Battery Polarium G5 19\" 4U 14S 200Ah 1pole",
+      "qty": 58
     },
     {
       "sku": "800-00311 R09",
@@ -368,8 +374,8 @@
     "2026-05": 5230,
     "2026-06": 5823,
     "2026-07": 4827,
-    "2026-08": 3607,
-    "2026-09": 3389,
+    "2026-08": 3407,
+    "2026-09": 3589,
     "2026-10": 3488,
     "2026-11": 1648,
     "2026-12": 0
@@ -754,23 +760,23 @@
       "week": 34,
       "plan": 636,
       "actual": 2,
-      "updated": "2026-08-17 14:51:34"
+      "updated": "2026-08-17 14:54:24"
     },
     "35": {
       "week": 35,
-      "plan": 766,
+      "plan": 624,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
     "36": {
       "week": 36,
-      "plan": 458,
+      "plan": 400,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
     "37": {
       "week": 37,
-      "plan": 880,
+      "plan": 980,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -782,7 +788,7 @@
     },
     "39": {
       "week": 39,
-      "plan": 840,
+      "plan": 940,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -824,7 +830,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-17 14:51:34"
+        "updated": "2026-08-17 14:54:24"
       }
     },
     "40": {

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-17 09:16:13",
+  "last_update": "2026-08-17 09:19:01",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -9,8 +9,8 @@
     "planned": 636,
     "backlog": 166,
     "total_plan": 802,
-    "produced": 740,
-    "rate": 0.9226932668329177
+    "produced": 2,
+    "rate": 0.0024937655860349127
   },
   "day_dates": {
     "Mon": "2026-08-17",
@@ -27,11 +27,11 @@
       "planned": 100,
       "backlog": -18,
       "total_plan": 82,
-      "produced": 20,
-      "rate": 0.24390243902439024,
+      "produced": 0,
+      "rate": 0,
       "daily": {
-        "Mon": 10,
-        "Tue": 10,
+        "Mon": 0,
+        "Tue": 0,
         "Wed": 0,
         "Thu": 0,
         "Fri": 0,
@@ -45,15 +45,15 @@
       "planned": 414,
       "backlog": 0,
       "total_plan": 414,
-      "produced": 414,
-      "rate": 1,
+      "produced": 0,
+      "rate": 0,
       "daily": {
         "Mon": 0,
         "Tue": 0,
-        "Wed": 100,
-        "Thu": 100,
-        "Fri": 100,
-        "Sat": 114,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
         "Sun": 0
       },
       "note": ""
@@ -63,10 +63,10 @@
       "planned": 2,
       "backlog": 0,
       "total_plan": 2,
-      "produced": 2,
-      "rate": 1,
+      "produced": 0,
+      "rate": 0,
       "daily": {
-        "Mon": 2,
+        "Mon": 0,
         "Tue": 0,
         "Wed": 0,
         "Thu": 0,
@@ -81,10 +81,10 @@
       "planned": 0,
       "backlog": 20,
       "total_plan": 20,
-      "produced": 20,
-      "rate": 1,
+      "produced": 0,
+      "rate": 0,
       "daily": {
-        "Mon": 20,
+        "Mon": 0,
         "Tue": 0,
         "Wed": 0,
         "Thu": 0,
@@ -117,11 +117,11 @@
       "planned": 120,
       "backlog": 0,
       "total_plan": 120,
-      "produced": 120,
-      "rate": 1,
+      "produced": 0,
+      "rate": 0,
       "daily": {
-        "Mon": 60,
-        "Tue": 60,
+        "Mon": 0,
+        "Tue": 0,
         "Wed": 0,
         "Thu": 0,
         "Fri": 0,
@@ -135,15 +135,15 @@
       "planned": 0,
       "backlog": 7,
       "total_plan": 7,
-      "produced": 7,
-      "rate": 1,
+      "produced": 0,
+      "rate": 0,
       "daily": {
         "Mon": 0,
         "Tue": 0,
         "Wed": 0,
         "Thu": 0,
         "Fri": 0,
-        "Sat": 7,
+        "Sat": 0,
         "Sun": 0
       },
       "note": "7pcs backlog due to shortage the income material"
@@ -153,11 +153,11 @@
       "planned": 0,
       "backlog": 155,
       "total_plan": 155,
-      "produced": 155,
-      "rate": 1,
+      "produced": 0,
+      "rate": 0,
       "daily": {
-        "Mon": 78,
-        "Tue": 77,
+        "Mon": 0,
+        "Tue": 0,
         "Wed": 0,
         "Thu": 0,
         "Fri": 0,
@@ -168,12 +168,12 @@
     }
   ],
   "hpu": {
-    "total": 155,
+    "total": 0,
     "day_shift": 46,
     "night_shift": 46,
     "daily": {
-      "Mon": 78,
-      "Tue": 77,
+      "Mon": 0,
+      "Tue": 0,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -198,9 +198,9 @@
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 0.46216216216216216,
+    "accumulate_total": 171,
     "accumulate_daily": {
-      "Mon": 1.9883720930232558,
+      "Mon": 171,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -428,129 +428,129 @@
   "model_kpi": {
     "by_model": [
       {
-        "model": "LFP Large",
-        "actual": 436,
-        "target": 516,
-        "productivity_pct": 84.5,
-        "hpu": 3,
-        "earned_hours": 1308
-      },
-      {
-        "model": "Khác",
-        "actual": 155,
-        "target": 155,
-        "productivity_pct": 100.0,
-        "hpu": null,
-        "earned_hours": null
-      },
-      {
         "model": "G5-NMC",
-        "actual": 122,
+        "actual": 2,
         "target": 122,
-        "productivity_pct": 100.0,
+        "productivity_pct": 1.6,
         "hpu": 2.9,
-        "earned_hours": 353.8
+        "earned_hours": 5.8
+      },
+      {
+        "model": "LFP Large",
+        "actual": 0,
+        "target": 516,
+        "productivity_pct": 0.0,
+        "hpu": 3,
+        "earned_hours": 0
       },
       {
         "model": "Kit&Spare",
-        "actual": 20,
+        "actual": 0,
         "target": 20,
-        "productivity_pct": 100.0,
+        "productivity_pct": 0.0,
         "hpu": 1,
-        "earned_hours": 20
+        "earned_hours": 0
       },
       {
         "model": "Morlus",
-        "actual": 7,
+        "actual": 0,
         "target": 7,
-        "productivity_pct": 100.0,
+        "productivity_pct": 0.0,
         "hpu": 1.5,
-        "earned_hours": 10.5
+        "earned_hours": 0.0
+      },
+      {
+        "model": "Khác",
+        "actual": 0,
+        "target": 155,
+        "productivity_pct": 0.0,
+        "hpu": null,
+        "earned_hours": null
       }
     ],
     "overall": {
-      "earned_hours": 1692.3,
+      "earned_hours": 5.8,
       "actual_hours": 1672,
       "base_hours": 1672,
       "ot_hours": 0,
       "headcount_present": 38,
       "std_hours_per_person": 44,
-      "efficiency_pct": 101.2
+      "efficiency_pct": 0.3
     }
   },
   "model_kpi_daily": {
     "day": "Mon",
     "by_model": [
       {
-        "model": "Khác",
-        "actual": 78,
-        "hpu": null,
-        "earned_hours": null
-      },
-      {
         "model": "G5-NMC",
-        "actual": 62,
+        "actual": 2,
         "hpu": 2.9,
-        "earned_hours": 179.8
-      },
-      {
-        "model": "Kit&Spare",
-        "actual": 20,
-        "hpu": 1,
-        "earned_hours": 20
+        "earned_hours": 5.8
       },
       {
         "model": "LFP Large",
-        "actual": 12,
+        "actual": 0,
         "hpu": 3,
-        "earned_hours": 36
+        "earned_hours": 0
+      },
+      {
+        "model": "Kit&Spare",
+        "actual": 0,
+        "hpu": 1,
+        "earned_hours": 0
       },
       {
         "model": "Morlus",
         "actual": 0,
         "hpu": 1.5,
         "earned_hours": 0.0
+      },
+      {
+        "model": "Khác",
+        "actual": 0,
+        "hpu": null,
+        "earned_hours": null
       }
     ],
     "overall": {
-      "earned_hours": 235.8,
+      "earned_hours": 5.8,
       "actual_hours": 278.7,
       "base_hours": 278.7,
       "ot_hours": 0,
       "headcount_present": 38,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 84.6
+      "efficiency_pct": 2.1
     }
   },
   "daily_hpu": {
-    "Mon": 1.9883720930232558,
-    "Tue": 2.91,
-    "Wed": 3.0,
-    "Thu": 3.0,
-    "Fri": 3.0,
-    "Sat": 2.91,
+    "Mon": 171,
+    "Tue": null,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
+    "Sat": null,
     "Sun": null
   },
-  "hpu_target": 2.89,
+  "hpu_target": 2.9,
   "daily_hpu_target": {
-    "Mon": 2.51,
-    "Tue": 2.91,
-    "Wed": 3.0,
-    "Thu": 3.0,
-    "Fri": 3.0,
-    "Sat": 2.91,
+    "Mon": 2.9,
+    "Tue": null,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
+    "Sat": null,
     "Sun": null
   },
   "daily_efficiency": {
-    "Mon": 126.2,
-    "Tue": 100.0,
-    "Wed": 100.0,
-    "Thu": 100.0,
-    "Fri": 100.0,
-    "Sat": 100.0,
+    "Mon": 1.7,
+    "Tue": null,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
+    "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 625.3,
+  "week_efficiency_hpu": 1.7,
   "history": {
     "33": {
       "week": 33,
@@ -753,8 +753,8 @@
     "34": {
       "week": 34,
       "plan": 636,
-      "actual": 740,
-      "updated": "2026-08-17 09:16:12"
+      "actual": 2,
+      "updated": "2026-08-17 09:19:01"
     },
     "35": {
       "week": 35,
@@ -824,7 +824,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-17 09:16:12"
+        "updated": "2026-08-17 09:19:01"
       }
     },
     "40": {

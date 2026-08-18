@@ -1,9 +1,9 @@
 {
-  "last_update": "2026-08-17 21:36:02",
+  "last_update": "2026-08-18 08:13:40",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "week": 34,
   "total": {
     "planned": 636,
@@ -169,8 +169,8 @@
   ],
   "hpu": {
     "total": 43,
-    "day_shift": 46,
-    "night_shift": 46,
+    "day_shift": 43,
+    "night_shift": 43,
     "daily": {
       "Mon": 43,
       "Tue": 0,
@@ -182,7 +182,7 @@
     },
     "daily_day": {
       "Mon": 38,
-      "Tue": 0,
+      "Tue": 40,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
@@ -191,14 +191,14 @@
     },
     "daily_night": {
       "Mon": 38,
-      "Tue": 0,
+      "Tue": 40,
       "Wed": 0,
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 5.15952380952381,
+    "accumulate_total": 9.350000000000001,
     "accumulate_daily": {
       "Mon": 5.15952380952381,
       "Tue": 0,
@@ -377,39 +377,39 @@
   "manpower": {
     "source": "DANH SÁCH NHÂN LỰC.xlsx — sheet sĩ số",
     "week": 34,
-    "total_all": 46,
+    "total_all": 45,
     "op_total": 22,
-    "os_total": 24,
+    "os_total": 23,
     "day_shift": {
-      "date": "2026-08-17",
-      "total": 46,
-      "present": 38,
-      "absent": 8,
+      "date": "2026-08-18",
+      "total": 44,
+      "present": 40,
+      "absent": 4,
       "op": {
-        "total": 22,
-        "present": 20,
-        "absent": 2,
-        "permit": "Thuận , Dũng",
+        "total": 21,
+        "present": 21,
+        "absent": 0,
+        "permit": "",
         "no_permit": "",
         "maternity": ""
       },
       "os": {
-        "total": 24,
-        "present": 18,
-        "absent": 6,
-        "permit": "Tuấn , Minh , Mến.",
-        "no_permit": "Long , Trang, Thanh",
+        "total": 23,
+        "present": 19,
+        "absent": 4,
+        "permit": "Bách , Mến",
+        "no_permit": "Thanh, Trang",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-08-17",
-      "total": 0,
-      "present": 0,
+      "date": "2026-08-18",
+      "total": 1,
+      "present": 1,
       "absent": 0,
       "op": {
-        "total": 0,
-        "present": 0,
+        "total": 1,
+        "present": 1,
         "absent": 0,
         "permit": "",
         "no_permit": "",
@@ -470,56 +470,56 @@
     ],
     "overall": {
       "earned_hours": 82.6,
-      "actual_hours": 1672,
-      "base_hours": 1672,
+      "actual_hours": 1804,
+      "base_hours": 1804,
       "ot_hours": 0,
-      "headcount_present": 38,
+      "headcount_present": 41,
       "std_hours_per_person": 44,
-      "efficiency_pct": 4.9
+      "efficiency_pct": 4.6
     }
   },
   "model_kpi_daily": {
-    "day": "Mon",
+    "day": "Tue",
     "by_model": [
       {
-        "model": "Khác",
-        "actual": 43,
-        "hpu": null,
-        "earned_hours": null
+        "model": "LFP Large",
+        "actual": 0,
+        "hpu": 3,
+        "earned_hours": 0
       },
       {
         "model": "Kit&Spare",
-        "actual": 20,
+        "actual": 0,
         "hpu": 1,
-        "earned_hours": 20
-      },
-      {
-        "model": "LFP Large",
-        "actual": 17,
-        "hpu": 3,
-        "earned_hours": 51
+        "earned_hours": 0
       },
       {
         "model": "G5-NMC",
-        "actual": 4,
+        "actual": 0,
         "hpu": 2.9,
-        "earned_hours": 11.6
+        "earned_hours": 0.0
       },
       {
         "model": "Morlus",
         "actual": 0,
         "hpu": 1.5,
         "earned_hours": 0.0
+      },
+      {
+        "model": "Khác",
+        "actual": 0,
+        "hpu": null,
+        "earned_hours": null
       }
     ],
     "overall": {
-      "earned_hours": 82.6,
-      "actual_hours": 278.7,
-      "base_hours": 278.7,
+      "earned_hours": 0.0,
+      "actual_hours": 300.7,
+      "base_hours": 300.7,
       "ot_hours": 0,
-      "headcount_present": 38,
+      "headcount_present": 41,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 29.6
+      "efficiency_pct": 0.0
     }
   },
   "daily_hpu": {
@@ -550,7 +550,7 @@
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 39.0,
+  "week_efficiency_hpu": 21.5,
   "history": {
     "33": {
       "week": 33,
@@ -754,7 +754,7 @@
       "week": 34,
       "plan": 636,
       "actual": 84,
-      "updated": "2026-08-17 21:36:02"
+      "updated": "2026-08-18 08:13:40"
     },
     "35": {
       "week": 35,
@@ -825,6 +825,19 @@
         "night_total": 0,
         "night_absent": 0,
         "updated": "2026-08-17 21:36:02"
+      },
+      "2026-08-18": {
+        "date": "2026-08-18",
+        "total_all": 45,
+        "op_total": 22,
+        "os_total": 23,
+        "day_present": 40,
+        "day_total": 44,
+        "day_absent": 4,
+        "night_present": 1,
+        "night_total": 1,
+        "night_absent": 0,
+        "updated": "2026-08-18 08:13:40"
       }
     },
     "40": {

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18 11:13:38",
+  "last_update": "2026-08-18 11:16:16",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -7,10 +7,10 @@
   "week": 34,
   "total": {
     "planned": 636,
-    "backlog": 166,
-    "total_plan": 802,
+    "backlog": 168,
+    "total_plan": 804,
     "produced": 84,
-    "rate": 0.10473815461346633
+    "rate": 0.1044776119402985
   },
   "day_dates": {
     "Mon": "2026-08-17",
@@ -151,10 +151,10 @@
     {
       "sku": "880-00180 P1",
       "planned": 0,
-      "backlog": 155,
-      "total_plan": 155,
+      "backlog": 157,
+      "total_plan": 157,
       "produced": 43,
-      "rate": 0.27741935483870966,
+      "rate": 0.27388535031847133,
       "daily": {
         "Mon": 43,
         "Tue": 0,
@@ -257,12 +257,12 @@
     "31": 1091,
     "32": 1029,
     "33": 718,
-    "34": 636,
-    "35": 566,
+    "34": 638,
+    "35": 766,
     "36": 458,
-    "37": 980,
+    "37": 880,
     "38": 841,
-    "39": 940,
+    "39": 840,
     "40": 828
   },
   "weeks_range": [
@@ -324,7 +324,7 @@
       "sku": "800-00334 R10",
       "item": "800-00334",
       "description": "Battery Polarium LFP G5 19\" 4U 150Ah 15S 1pole",
-      "qty": 100
+      "qty": 102
     },
     {
       "sku": "800-00327 R06",
@@ -334,6 +334,12 @@
     }
   ],
   "plan_detail_next": [
+    {
+      "sku": "800-00362 R02",
+      "item": "800-00362",
+      "description": "Battery ATC LFP G5 19\"4U 310Ah 15S 1pole",
+      "qty": 300
+    },
     {
       "sku": "800-00334 R10",
       "item": "800-00334",
@@ -345,12 +351,6 @@
       "item": "800-00314",
       "description": "Battery Polarium LFP G5 19\"4U 230Ah 15S 1pole",
       "qty": 200
-    },
-    {
-      "sku": "800-00362 R02",
-      "item": "800-00362",
-      "description": "Battery ATC LFP G5 19\"4U 310Ah 15S 1pole",
-      "qty": 100
     },
     {
       "sku": "800-00311 R09",
@@ -430,8 +430,8 @@
       {
         "model": "Khác",
         "actual": 43,
-        "target": 155,
-        "productivity_pct": 27.7,
+        "target": 157,
+        "productivity_pct": 27.4,
         "hpu": null,
         "earned_hours": null
       },
@@ -752,13 +752,13 @@
     },
     "34": {
       "week": 34,
-      "plan": 636,
+      "plan": 638,
       "actual": 84,
-      "updated": "2026-08-18 11:13:38"
+      "updated": "2026-08-18 11:16:16"
     },
     "35": {
       "week": 35,
-      "plan": 566,
+      "plan": 766,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -770,7 +770,7 @@
     },
     "37": {
       "week": 37,
-      "plan": 980,
+      "plan": 880,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -782,7 +782,7 @@
     },
     "39": {
       "week": 39,
-      "plan": 940,
+      "plan": 840,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -837,7 +837,7 @@
         "night_present": 1,
         "night_total": 1,
         "night_absent": 0,
-        "updated": "2026-08-18 11:13:38"
+        "updated": "2026-08-18 11:16:16"
       }
     },
     "40": {

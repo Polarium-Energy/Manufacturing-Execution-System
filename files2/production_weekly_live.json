@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20 09:29:22",
+  "last_update": "2026-08-20 10:56:24",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -383,14 +383,14 @@
   "manpower": {
     "source": "DANH SÁCH NHÂN LỰC.xlsx — sheet sĩ số",
     "week": 34,
-    "total_all": 44,
+    "total_all": 45,
     "op_total": 21,
-    "os_total": 23,
+    "os_total": 24,
     "day_shift": {
-      "date": "2026-08-19",
-      "total": 43,
-      "present": 42,
-      "absent": 1,
+      "date": "2026-08-20",
+      "total": 44,
+      "present": 41,
+      "absent": 3,
       "op": {
         "total": 20,
         "present": 20,
@@ -400,16 +400,16 @@
         "maternity": ""
       },
       "os": {
-        "total": 23,
-        "present": 22,
-        "absent": 1,
-        "permit": "Mến",
-        "no_permit": "",
+        "total": 24,
+        "present": 21,
+        "absent": 3,
+        "permit": "Mến , Minh",
+        "no_permit": "Bách",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-08-19",
+      "date": "2026-08-20",
       "total": 1,
       "present": 1,
       "absent": 0,
@@ -476,12 +476,12 @@
     ],
     "overall": {
       "earned_hours": 814.8,
-      "actual_hours": 2139,
-      "base_hours": 1892,
-      "ot_hours": 247,
-      "headcount_present": 43,
+      "actual_hours": 2096.5,
+      "base_hours": 1848,
+      "ot_hours": 248.5,
+      "headcount_present": 42,
       "std_hours_per_person": 44,
-      "efficiency_pct": 38.1
+      "efficiency_pct": 38.9
     }
   },
   "model_kpi_daily": {
@@ -520,12 +520,12 @@
     ],
     "overall": {
       "earned_hours": 479.4,
-      "actual_hours": 391.3,
-      "base_hours": 315.3,
-      "ot_hours": 76,
-      "headcount_present": 43,
+      "actual_hours": 385.2,
+      "base_hours": 308.0,
+      "ot_hours": 77.25,
+      "headcount_present": 42,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 122.5
+      "efficiency_pct": 124.5
     }
   },
   "daily_hpu": {
@@ -760,7 +760,7 @@
       "week": 34,
       "plan": 638,
       "actual": 332,
-      "updated": "2026-08-20 09:29:22"
+      "updated": "2026-08-20 10:56:24"
     },
     "35": {
       "week": 35,
@@ -857,6 +857,19 @@
         "night_total": 1,
         "night_absent": 0,
         "updated": "2026-08-20 09:29:22"
+      },
+      "2026-08-20": {
+        "date": "2026-08-20",
+        "total_all": 45,
+        "op_total": 21,
+        "os_total": 24,
+        "day_present": 41,
+        "day_total": 44,
+        "day_absent": 3,
+        "night_present": 1,
+        "night_total": 1,
+        "night_absent": 0,
+        "updated": "2026-08-20 10:56:24"
       }
     },
     "40": {

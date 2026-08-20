@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20 13:46:20",
+  "last_update": "2026-08-20 13:49:06",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -12,7 +12,15 @@
     "produced": 430,
     "rate": 0.5348258706467661
   },
-  "day_dates": {},
+  "day_dates": {
+    "Mon": "2026-08-17",
+    "Tue": "2026-08-18",
+    "Wed": "2026-08-19",
+    "Thu": "2026-08-20",
+    "Fri": "2026-08-21",
+    "Sat": "2026-08-22",
+    "Sun": "2026-08-23"
+  },
   "products": [
     {
       "sku": "800-00334 P10",
@@ -21,7 +29,15 @@
       "total_plan": 82,
       "produced": 24,
       "rate": 0.2926829268292683,
-      "daily": {},
+      "daily": {
+        "Mon": 14,
+        "Tue": 4,
+        "Wed": 0,
+        "Thu": 6,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
       "note": ""
     },
     {
@@ -31,7 +47,15 @@
       "total_plan": 414,
       "produced": 219,
       "rate": 0.5289855072463768,
-      "daily": {},
+      "daily": {
+        "Mon": 3,
+        "Tue": 28,
+        "Wed": 96,
+        "Thu": 92,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
       "note": ""
     },
     {
@@ -41,7 +65,15 @@
       "total_plan": 2,
       "produced": 2,
       "rate": 1,
-      "daily": {},
+      "daily": {
+        "Mon": 0,
+        "Tue": 2,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
       "note": ""
     },
     {
@@ -51,7 +83,15 @@
       "total_plan": 20,
       "produced": 20,
       "rate": 1,
-      "daily": {},
+      "daily": {
+        "Mon": 20,
+        "Tue": 0,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
       "note": "F/C spare part"
     },
     {
@@ -61,7 +101,15 @@
       "total_plan": 2,
       "produced": 2,
       "rate": 1,
-      "daily": {},
+      "daily": {
+        "Mon": 2,
+        "Tue": 0,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
       "note": ""
     },
     {
@@ -71,7 +119,15 @@
       "total_plan": 120,
       "produced": 120,
       "rate": 1,
-      "daily": {},
+      "daily": {
+        "Mon": 0,
+        "Tue": 54,
+        "Wed": 66,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
       "note": ""
     },
     {
@@ -81,7 +137,15 @@
       "total_plan": 7,
       "produced": 0,
       "rate": 0,
-      "daily": {},
+      "daily": {
+        "Mon": 0,
+        "Tue": 0,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
       "note": "7pcs backlog due to shortage the income material"
     },
     {
@@ -91,7 +155,15 @@
       "total_plan": 157,
       "produced": 43,
       "rate": 0.27388535031847133,
-      "daily": {},
+      "daily": {
+        "Mon": 43,
+        "Tue": 0,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
       "note": "Controller Kit"
     }
   ],
@@ -99,17 +171,57 @@
     "total": 43,
     "day_shift": 44,
     "night_shift": 44,
-    "daily": {},
-    "daily_day": {},
-    "daily_night": {},
+    "daily": {
+      "Mon": 43,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 0
+    },
+    "daily_day": {
+      "Mon": 38,
+      "Tue": 40,
+      "Wed": 43,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 0
+    },
+    "daily_night": {
+      "Mon": 38,
+      "Tue": 40,
+      "Wed": 43,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 0
+    },
     "accumulate_total": 3.2367441860465123,
-    "accumulate_daily": {}
+    "accumulate_daily": {
+      "Mon": 5.285365853658537,
+      "Tue": 5.295454545454546,
+      "Wed": 3.0395061728395065,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 0
+    }
   },
   "overtime": {
     "total": 327,
     "day_shift": 327,
     "night_shift": 0,
-    "daily": {}
+    "daily": {
+      "Mon": 99,
+      "Tue": 114,
+      "Wed": 114,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 0
+    }
   },
   "weekly_plan": {
     "1": 0,
@@ -364,12 +476,12 @@
     ],
     "overall": {
       "earned_hours": 1108.8,
-      "actual_hours": 1848,
+      "actual_hours": 2176.5,
       "base_hours": 1848,
-      "ot_hours": 0,
+      "ot_hours": 328.5,
       "headcount_present": 42,
       "std_hours_per_person": 44,
-      "efficiency_pct": 60.0
+      "efficiency_pct": 50.9
     }
   },
   "model_kpi_daily": {
@@ -377,9 +489,9 @@
     "by_model": [
       {
         "model": "LFP Large",
-        "actual": 0,
+        "actual": 98,
         "hpu": 3,
-        "earned_hours": 0
+        "earned_hours": 294
       },
       {
         "model": "Kit&Spare",
@@ -407,39 +519,39 @@
       }
     ],
     "overall": {
-      "earned_hours": 0.0,
+      "earned_hours": 294.0,
       "actual_hours": 388.0,
       "base_hours": 308.0,
       "ot_hours": 80,
       "headcount_present": 42,
       "std_hours_per_day": 7.33,
-      "efficiency_pct": 0.0
+      "efficiency_pct": 75.8
     }
   },
   "daily_hpu": {
-    "Mon": null,
-    "Tue": null,
-    "Wed": null,
-    "Thu": null,
+    "Mon": 5.285365853658537,
+    "Tue": 5.295454545454546,
+    "Wed": 3.0395061728395065,
+    "Thu": 3.0,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
   "hpu_target": 2.87,
   "daily_hpu_target": {
-    "Mon": null,
-    "Tue": null,
-    "Wed": null,
-    "Thu": null,
+    "Mon": 1.97,
+    "Tue": 2.94,
+    "Wed": 2.96,
+    "Thu": 3.0,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
   "daily_efficiency": {
-    "Mon": null,
-    "Tue": null,
-    "Wed": null,
-    "Thu": null,
+    "Mon": 37.3,
+    "Tue": 55.5,
+    "Wed": 97.4,
+    "Thu": 100.0,
     "Fri": null,
     "Sat": null,
     "Sun": null
@@ -648,7 +760,7 @@
       "week": 34,
       "plan": 638,
       "actual": 430,
-      "updated": "2026-08-20 13:46:20"
+      "updated": "2026-08-20 13:49:06"
     },
     "35": {
       "week": 35,
@@ -757,7 +869,7 @@
         "night_present": 1,
         "night_total": 1,
         "night_absent": 0,
-        "updated": "2026-08-20 13:46:20"
+        "updated": "2026-08-20 13:49:06"
       }
     },
     "40": {

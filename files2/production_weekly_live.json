@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-22 14:07:12",
+  "last_update": "2026-08-22 14:09:52",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -482,12 +482,12 @@
     ],
     "overall": {
       "earned_hours": 1576.8,
-      "actual_hours": 2002.5,
+      "actual_hours": 2008.5,
       "base_hours": 1672,
-      "ot_hours": 330.5,
+      "ot_hours": 336.5,
       "headcount_present": 38,
       "std_hours_per_person": 44,
-      "efficiency_pct": 78.7
+      "efficiency_pct": 78.5
     }
   },
   "model_kpi_daily": {
@@ -526,9 +526,9 @@
     ],
     "overall": {
       "earned_hours": 0.0,
-      "actual_hours": 278.7,
+      "actual_hours": 284.7,
       "base_hours": 278.7,
-      "ot_hours": 0,
+      "ot_hours": 6,
       "headcount_present": 38,
       "std_hours_per_day": 7.33,
       "efficiency_pct": 0.0
@@ -766,7 +766,7 @@
       "week": 34,
       "plan": 638,
       "actual": 626,
-      "updated": "2026-08-22 14:07:12"
+      "updated": "2026-08-22 14:09:52"
     },
     "35": {
       "week": 35,
@@ -901,7 +901,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-22 14:07:12"
+        "updated": "2026-08-22 14:09:52"
       }
     },
     "40": {

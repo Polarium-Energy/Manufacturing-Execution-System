@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-27 08:05:49",
+  "last_update": "2026-08-27 08:08:28",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -371,15 +371,15 @@
     "op_total": 21,
     "os_total": 25,
     "day_shift": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "total": 46,
-      "present": 40,
-      "absent": 6,
+      "present": 41,
+      "absent": 5,
       "op": {
         "total": 21,
-        "present": 18,
-        "absent": 3,
-        "permit": "Dung , Chính , Thuận",
+        "present": 19,
+        "absent": 2,
+        "permit": "Thuận , Đại",
         "no_permit": "",
         "maternity": ""
       },
@@ -387,13 +387,13 @@
         "total": 25,
         "present": 22,
         "absent": 3,
-        "permit": "Mến , Thủy",
-        "no_permit": "Thuận",
+        "permit": "Xuân , Mến",
+        "no_permit": "Minh",
         "maternity": ""
       }
     },
     "night_shift": {
-      "date": "2026-08-26",
+      "date": "2026-08-27",
       "total": 0,
       "present": 0,
       "absent": 0,
@@ -452,12 +452,12 @@
     ],
     "overall": {
       "earned_hours": 807.0,
-      "actual_hours": 1804,
-      "base_hours": 1800,
+      "actual_hours": 1849,
+      "base_hours": 1845,
       "ot_hours": 4,
-      "headcount_present": 40,
+      "headcount_present": 41,
       "std_hours_per_person": 45,
-      "efficiency_pct": 44.7
+      "efficiency_pct": 43.6
     }
   },
   "model_kpi_daily": {
@@ -490,12 +490,12 @@
     ],
     "overall": {
       "earned_hours": 363.0,
-      "actual_hours": 300.0,
-      "base_hours": 300.0,
+      "actual_hours": 307.5,
+      "base_hours": 307.5,
       "ot_hours": 0,
-      "headcount_present": 40,
+      "headcount_present": 41,
       "std_hours_per_day": 7.5,
-      "efficiency_pct": 121.0
+      "efficiency_pct": 118.0
     }
   },
   "daily_hpu": {
@@ -736,7 +736,7 @@
       "week": 35,
       "plan": 481,
       "actual": 269,
-      "updated": "2026-08-27 08:05:49"
+      "updated": "2026-08-27 08:08:28"
     },
     "36": {
       "week": 36,
@@ -879,6 +879,19 @@
         "night_total": 0,
         "night_absent": 0,
         "updated": "2026-08-27 08:05:49"
+      },
+      "2026-08-27": {
+        "date": "2026-08-27",
+        "total_all": 46,
+        "op_total": 21,
+        "os_total": 25,
+        "day_present": 41,
+        "day_total": 46,
+        "day_absent": 5,
+        "night_present": 0,
+        "night_total": 0,
+        "night_absent": 0,
+        "updated": "2026-08-27 08:08:28"
       }
     },
     "40": {

@@ -3,8 +3,8 @@
     "id": 1,
     "time": "2026-08-28",
     "type": "other",
-    "model": "800-00374 P1",
-    "description": "test",
+    "model": "800-00334 P10",
+    "description": "1pcs backlog due to shortage busbar",
     "duration_min": null,
     "source": "file"
   },
@@ -12,7 +12,7 @@
     "id": 2,
     "time": "2026-08-28",
     "type": "other",
-    "model": "800-00362 P2",
+    "model": "800-00374 P1",
     "description": "test",
     "duration_min": null,
     "source": "file"
@@ -21,13 +21,22 @@
     "id": 3,
     "time": "2026-08-28",
     "type": "other",
+    "model": "800-00362 P2",
+    "description": "test",
+    "duration_min": null,
+    "source": "file"
+  },
+  {
+    "id": 4,
+    "time": "2026-08-28",
+    "type": "other",
     "model": "800-00350 P5 plus",
     "description": "7pcs backlog due to shortage the income material",
     "duration_min": null,
     "source": "file"
   },
   {
-    "id": 4,
+    "id": 5,
     "time": "2026-08-28",
     "type": "other",
     "model": "880-00180 P1",

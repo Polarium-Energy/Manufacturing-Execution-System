@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-28 08:23:28",
+  "last_update": "2026-08-28 08:26:06",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -736,7 +736,7 @@
       "week": 35,
       "plan": 481,
       "actual": 385,
-      "updated": "2026-08-28 08:23:28"
+      "updated": "2026-08-28 08:26:06"
     },
     "36": {
       "week": 36,
@@ -904,7 +904,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-28 08:23:28"
+        "updated": "2026-08-28 08:26:06"
       }
     },
     "40": {
@@ -928,24 +928,24 @@
         "week": "202632",
         "type": "System",
         "detail": "Test program",
-        "note": "The test Program  of TE70 not be updated",
-        "stoptime_min": 90,
-        "effected_op": 24,
-        "work_hour": 36,
+        "note": "TE70 failed: Mosfet/F500-> stopline for investigating",
+        "stoptime_min": 6860,
+        "effected_op": 13,
+        "work_hour": 1486.3,
         "area": "Final Assy",
-        "product": "800-00356"
+        "product": "800-00342"
       },
       {
         "date": "2026-08-05",
         "week": "202632",
         "type": "System",
         "detail": "Test program",
-        "note": "The test Program  of TE70 not be updated",
-        "stoptime_min": 90,
-        "effected_op": 24,
-        "work_hour": 36,
+        "note": "TE70 failed: Mosfet/F500-> stopline for investigating",
+        "stoptime_min": 300,
+        "effected_op": 13,
+        "work_hour": 65,
         "area": "Final Assy",
-        "product": "800-00356"
+        "product": "800-00342"
       },
       {
         "date": "2026-07-15",

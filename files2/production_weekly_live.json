@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-28 08:31:35",
+  "last_update": "2026-08-28 08:37:25",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -736,7 +736,7 @@
       "week": 35,
       "plan": 481,
       "actual": 385,
-      "updated": "2026-08-28 08:31:34"
+      "updated": "2026-08-28 08:37:25"
     },
     "36": {
       "week": 36,
@@ -904,7 +904,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-28 08:31:34"
+        "updated": "2026-08-28 08:37:25"
       }
     },
     "40": {
@@ -933,6 +933,78 @@
         "work_hour": 17.2,
         "area": "Final Assy",
         "product": "800-00136"
+      },
+      {
+        "date": "2026-08-18",
+        "week": "202634",
+        "type": "System",
+        "detail": "Test program",
+        "note": "The test Program  of TE70 not be updated",
+        "stoptime_min": 180,
+        "effected_op": 7,
+        "work_hour": 21,
+        "area": "Final Assy",
+        "product": "800-00136"
+      },
+      {
+        "date": "2026-08-18",
+        "week": "202634",
+        "type": "Equipment",
+        "detail": "Assembly station",
+        "note": "Replace air pipe",
+        "stoptime_min": 35,
+        "effected_op": 3,
+        "work_hour": 1.8,
+        "area": "Final Assy",
+        "product": ""
+      },
+      {
+        "date": "2026-08-17",
+        "week": "202634",
+        "type": "System",
+        "detail": "Test program",
+        "note": "The test Program  of TE70 not be updated",
+        "stoptime_min": 180,
+        "effected_op": 9,
+        "work_hour": 27,
+        "area": "Final Assy",
+        "product": "800-00136"
+      },
+      {
+        "date": "2026-08-17",
+        "week": "202634",
+        "type": "Equipment",
+        "detail": "Test equipments",
+        "note": "Replace test equipment",
+        "stoptime_min": 15,
+        "effected_op": 15,
+        "work_hour": 3.8,
+        "area": "Final Assy",
+        "product": "800-00136"
+      },
+      {
+        "date": "2026-08-17",
+        "week": "202634",
+        "type": "Equipment",
+        "detail": "Test equipments",
+        "note": "Replace test equipment",
+        "stoptime_min": 20,
+        "effected_op": 10,
+        "work_hour": 3.3,
+        "area": "Final Assy",
+        "product": "800-00136"
+      },
+      {
+        "date": "2026-08-17",
+        "week": "202634",
+        "type": "Equipment",
+        "detail": "Camera",
+        "note": "Camera error",
+        "stoptime_min": 30,
+        "effected_op": 18,
+        "work_hour": 9,
+        "area": "Final Assy",
+        "product": "800-00134"
       }
     ],
     "all": [
@@ -947,6 +1019,78 @@
         "work_hour": 17.2,
         "area": "Final Assy",
         "product": "800-00136"
+      },
+      {
+        "date": "2026-08-18",
+        "week": "202634",
+        "type": "System",
+        "detail": "Test program",
+        "note": "The test Program  of TE70 not be updated",
+        "stoptime_min": 180,
+        "effected_op": 7,
+        "work_hour": 21,
+        "area": "Final Assy",
+        "product": "800-00136"
+      },
+      {
+        "date": "2026-08-18",
+        "week": "202634",
+        "type": "Equipment",
+        "detail": "Assembly station",
+        "note": "Replace air pipe",
+        "stoptime_min": 35,
+        "effected_op": 3,
+        "work_hour": 1.8,
+        "area": "Final Assy",
+        "product": ""
+      },
+      {
+        "date": "2026-08-17",
+        "week": "202634",
+        "type": "System",
+        "detail": "Test program",
+        "note": "The test Program  of TE70 not be updated",
+        "stoptime_min": 180,
+        "effected_op": 9,
+        "work_hour": 27,
+        "area": "Final Assy",
+        "product": "800-00136"
+      },
+      {
+        "date": "2026-08-17",
+        "week": "202634",
+        "type": "Equipment",
+        "detail": "Test equipments",
+        "note": "Replace test equipment",
+        "stoptime_min": 15,
+        "effected_op": 15,
+        "work_hour": 3.8,
+        "area": "Final Assy",
+        "product": "800-00136"
+      },
+      {
+        "date": "2026-08-17",
+        "week": "202634",
+        "type": "Equipment",
+        "detail": "Test equipments",
+        "note": "Replace test equipment",
+        "stoptime_min": 20,
+        "effected_op": 10,
+        "work_hour": 3.3,
+        "area": "Final Assy",
+        "product": "800-00136"
+      },
+      {
+        "date": "2026-08-17",
+        "week": "202634",
+        "type": "Equipment",
+        "detail": "Camera",
+        "note": "Camera error",
+        "stoptime_min": 30,
+        "effected_op": 18,
+        "work_hour": 9,
+        "area": "Final Assy",
+        "product": "800-00134"
       },
       {
         "date": "2026-08-11",
@@ -6317,8 +6461,9 @@
     "today_count": 0,
     "today_stoptime": 0,
     "by_type_14d": {
-      "System": 1
+      "System": 3,
+      "Equipment": 4
     },
-    "total_14d": 1
+    "total_14d": 7
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-28 08:17:32",
+  "last_update": "2026-08-28 08:20:27",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -244,9 +244,9 @@
     "36": 358,
     "37": 448,
     "38": 445,
-    "39": 1032,
+    "39": 966,
     "40": 1152,
-    "41": 592
+    "41": 100
   },
   "weeks_range": [
     1,
@@ -359,8 +359,8 @@
     "2026-06": 5823,
     "2026-07": 4827,
     "2026-08": 3224,
-    "2026-09": 3077,
-    "2026-10": 2459,
+    "2026-09": 3011,
+    "2026-10": 2532,
     "2026-11": 1648,
     "2026-12": 0
   },
@@ -736,7 +736,7 @@
       "week": 35,
       "plan": 481,
       "actual": 385,
-      "updated": "2026-08-28 08:17:32"
+      "updated": "2026-08-28 08:20:27"
     },
     "36": {
       "week": 36,
@@ -758,7 +758,7 @@
     },
     "39": {
       "week": 39,
-      "plan": 1032,
+      "plan": 966,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -904,7 +904,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-28 08:17:32"
+        "updated": "2026-08-28 08:20:27"
       }
     },
     "40": {
@@ -915,7 +915,7 @@
     },
     "41": {
       "week": 41,
-      "plan": 592,
+      "plan": 100,
       "actual": null,
       "updated": "2026-08-26 19:06:37"
     }
@@ -924,16 +924,76 @@
     "recent": [],
     "all": [
       {
-        "date": "2026-06-29",
-        "week": "202627",
+        "date": "2026-08-06",
+        "week": "202632",
+        "type": "System",
+        "detail": "Test program",
+        "note": "The test Program  of TE70 not be updated",
+        "stoptime_min": 90,
+        "effected_op": 24,
+        "work_hour": 36,
+        "area": "Final Assy",
+        "product": "800-00356"
+      },
+      {
+        "date": "2026-08-05",
+        "week": "202632",
+        "type": "System",
+        "detail": "Test program",
+        "note": "The test Program  of TE70 not be updated",
+        "stoptime_min": 90,
+        "effected_op": 24,
+        "work_hour": 36,
+        "area": "Final Assy",
+        "product": "800-00356"
+      },
+      {
+        "date": "2026-07-15",
+        "week": "202629",
+        "type": "System",
+        "detail": "Mrain issue",
+        "note": "Mbrain issues",
+        "stoptime_min": 85,
+        "effected_op": 30,
+        "work_hour": 42.5,
+        "area": "All",
+        "product": ""
+      },
+      {
+        "date": "2026-07-10",
+        "week": "202628",
         "type": "Equipment",
         "detail": "Laser welding",
         "note": "Welding Program NG",
-        "stoptime_min": 20,
-        "effected_op": 18,
-        "work_hour": 6,
+        "stoptime_min": 240,
+        "effected_op": 30,
+        "work_hour": 120,
         "area": "BM line",
-        "product": "800-00334"
+        "product": "800-00356"
+      },
+      {
+        "date": "2026-07-09",
+        "week": "202628",
+        "type": "System",
+        "detail": "Test program",
+        "note": "The test Program  of TE70 not be updated",
+        "stoptime_min": 90,
+        "effected_op": 24,
+        "work_hour": 36,
+        "area": "Final Assy",
+        "product": "800-00356"
+      },
+      {
+        "date": "2026-07-09",
+        "week": "202628",
+        "type": "Addition",
+        "detail": "Material delay",
+        "note": "Wrong BOM",
+        "stoptime_min": 235,
+        "effected_op": 5,
+        "work_hour": 19.6,
+        "area": "Final Assy",
+        "product": "800-00356"
       },
       {
         "date": "2026-06-29",

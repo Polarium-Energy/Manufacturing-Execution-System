@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-28 23:09:04",
+  "last_update": "2026-09-07 18:30:00",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -242,11 +242,11 @@
     "34": 638,
     "35": 481,
     "36": 58,
-    "37": 798,
-    "38": 445,
-    "39": 742,
-    "40": 728,
-    "41": 0
+    "37": 469,
+    "38": 482,
+    "39": 134,
+    "40": 395,
+    "41": 350
   },
   "weeks_range": [
     1,
@@ -347,9 +347,9 @@
     "2026-06": 5823,
     "2026-07": 4827,
     "2026-08": 2924,
-    "2026-09": 2713,
-    "2026-10": 565,
-    "2026-11": 1000,
+    "2026-09": 1480,
+    "2026-10": 733,
+    "2026-11": 500,
     "2026-12": 1000
   },
   "manpower": {
@@ -724,7 +724,7 @@
       "week": 35,
       "plan": 481,
       "actual": 477,
-      "updated": "2026-08-28 23:09:04"
+      "updated": "2026-09-07 18:30:00"
     },
     "36": {
       "week": 36,
@@ -734,19 +734,19 @@
     },
     "37": {
       "week": 37,
-      "plan": 798,
+      "plan": 469,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
     "38": {
       "week": 38,
-      "plan": 445,
+      "plan": 482,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
     "39": {
       "week": 39,
-      "plan": 742,
+      "plan": 134,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -892,18 +892,18 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-08-28 23:09:04"
+        "updated": "2026-09-07 18:30:00"
       }
     },
     "40": {
       "week": 40,
-      "plan": 728,
+      "plan": 395,
       "actual": null,
       "updated": "2026-08-17 08:17:18"
     },
     "41": {
       "week": 41,
-      "plan": 0,
+      "plan": 350,
       "actual": null,
       "updated": "2026-08-26 19:06:37"
     }
@@ -919,90 +919,6 @@
         "stoptime_min": 40,
         "effected_op": 2,
         "work_hour": 1.3,
-        "area": "Final Assy",
-        "product": "800-00134"
-      },
-      {
-        "date": "2026-08-19",
-        "week": "202634",
-        "type": "System",
-        "detail": "Test program",
-        "note": "The test Program  of TE70 not be updated",
-        "stoptime_min": 115,
-        "effected_op": 9,
-        "work_hour": 17.2,
-        "area": "Final Assy",
-        "product": "800-00136"
-      },
-      {
-        "date": "2026-08-18",
-        "week": "202634",
-        "type": "System",
-        "detail": "Test program",
-        "note": "The test Program  of TE70 not be updated",
-        "stoptime_min": 180,
-        "effected_op": 7,
-        "work_hour": 21,
-        "area": "Final Assy",
-        "product": "800-00136"
-      },
-      {
-        "date": "2026-08-18",
-        "week": "202634",
-        "type": "Equipment",
-        "detail": "Assembly station",
-        "note": "Replace air pipe",
-        "stoptime_min": 35,
-        "effected_op": 3,
-        "work_hour": 1.8,
-        "area": "Final Assy",
-        "product": ""
-      },
-      {
-        "date": "2026-08-17",
-        "week": "202634",
-        "type": "System",
-        "detail": "Test program",
-        "note": "The test Program  of TE70 not be updated",
-        "stoptime_min": 180,
-        "effected_op": 9,
-        "work_hour": 27,
-        "area": "Final Assy",
-        "product": "800-00136"
-      },
-      {
-        "date": "2026-08-17",
-        "week": "202634",
-        "type": "Equipment",
-        "detail": "Test equipments",
-        "note": "Replace test equipment",
-        "stoptime_min": 15,
-        "effected_op": 15,
-        "work_hour": 3.8,
-        "area": "Final Assy",
-        "product": "800-00136"
-      },
-      {
-        "date": "2026-08-17",
-        "week": "202634",
-        "type": "Equipment",
-        "detail": "Test equipments",
-        "note": "Replace test equipment",
-        "stoptime_min": 20,
-        "effected_op": 10,
-        "work_hour": 3.3,
-        "area": "Final Assy",
-        "product": "800-00136"
-      },
-      {
-        "date": "2026-08-17",
-        "week": "202634",
-        "type": "Equipment",
-        "detail": "Camera",
-        "note": "Camera error",
-        "stoptime_min": 30,
-        "effected_op": 18,
-        "work_hour": 9,
         "area": "Final Assy",
         "product": "800-00134"
       }
@@ -6473,10 +6389,8 @@
     "today_count": 0,
     "today_stoptime": 0,
     "by_type_14d": {
-      "Facility": 1,
-      "System": 3,
-      "Equipment": 4
+      "Facility": 1
     },
-    "total_14d": 8
+    "total_14d": 1
   }
 }

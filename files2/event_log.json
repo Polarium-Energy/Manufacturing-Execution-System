@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "time": "2026-08-28",
+    "time": "2026-09-07",
     "type": "other",
     "model": "800-00334 P10",
     "description": "1pcs backlog due to shortage busbar",
@@ -10,16 +10,7 @@
   },
   {
     "id": 2,
-    "time": "2026-08-28",
-    "type": "other",
-    "model": "800-00374 P1",
-    "description": "test",
-    "duration_min": null,
-    "source": "file"
-  },
-  {
-    "id": 3,
-    "time": "2026-08-28",
+    "time": "2026-09-07",
     "type": "other",
     "model": "800-00362 P2",
     "description": "test",
@@ -27,8 +18,8 @@
     "source": "file"
   },
   {
-    "id": 4,
-    "time": "2026-08-28",
+    "id": 3,
+    "time": "2026-09-07",
     "type": "other",
     "model": "800-00350 P5 plus",
     "description": "7pcs backlog due to shortage the income material",
@@ -36,11 +27,29 @@
     "source": "file"
   },
   {
-    "id": 5,
-    "time": "2026-08-28",
+    "id": 4,
+    "time": "2026-09-07",
     "type": "other",
     "model": "880-00180 P1",
     "description": "Controller Kit",
+    "duration_min": null,
+    "source": "file"
+  },
+  {
+    "id": 5,
+    "time": "2026-09-07",
+    "type": "other",
+    "model": "880-00022 P3",
+    "description": "KIT",
+    "duration_min": null,
+    "source": "file"
+  },
+  {
+    "id": 6,
+    "time": "2026-09-07",
+    "type": "other",
+    "model": "880-00184 P1",
+    "description": "KIT",
     "duration_min": null,
     "source": "file"
   }

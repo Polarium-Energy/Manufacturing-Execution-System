@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-08 08:42:01",
+  "last_update": "2026-09-08 08:44:52",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -360,7 +360,7 @@
       "sku": "800-00136 R23",
       "item": "800-00136",
       "description": "Battery Polarium HVS 23\" 2U 14S",
-      "qty": 180
+      "qty": 194
     },
     {
       "sku": "800-00106 R14",
@@ -399,12 +399,6 @@
       "item": "800-00042",
       "description": "Battery Polarium NMC G5 19\" 4U 100Ah 13S 2pole",
       "qty": 101
-    },
-    {
-      "sku": "800-00136 R23",
-      "item": "800-00136",
-      "description": "Battery Polarium HVS 23\" 2U 14S",
-      "qty": 14
     },
     {
       "sku": "800-00037 R21",
@@ -812,7 +806,7 @@
       "week": 37,
       "plan": 527,
       "actual": 0,
-      "updated": "2026-09-08 08:42:01"
+      "updated": "2026-09-08 08:44:52"
     },
     "38": {
       "week": 38,
@@ -981,7 +975,7 @@
         "night_present": 0,
         "night_total": 0,
         "night_absent": 0,
-        "updated": "2026-09-08 08:42:01"
+        "updated": "2026-09-08 08:44:52"
       }
     },
     "40": {

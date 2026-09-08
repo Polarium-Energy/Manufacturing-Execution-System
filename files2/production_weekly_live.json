@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-08 16:20:30",
+  "last_update": "2026-09-08 16:23:19",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -429,7 +429,7 @@
     "op_total": 21,
     "os_total": 0,
     "day_shift": {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "total": 21,
       "present": 21,
       "absent": 0,
@@ -451,7 +451,7 @@
       }
     },
     "night_shift": {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "total": 0,
       "present": 0,
       "absent": 0,
@@ -806,7 +806,7 @@
       "week": 37,
       "plan": 483,
       "actual": 0,
-      "updated": "2026-09-08 16:20:30"
+      "updated": "2026-09-08 16:23:19"
     },
     "38": {
       "week": 38,
@@ -976,6 +976,19 @@
         "night_total": 0,
         "night_absent": 0,
         "updated": "2026-09-08 16:20:30"
+      },
+      "2026-09-08": {
+        "date": "2026-09-08",
+        "total_all": 21,
+        "op_total": 21,
+        "os_total": 0,
+        "day_present": 21,
+        "day_total": 21,
+        "day_absent": 0,
+        "night_present": 0,
+        "night_total": 0,
+        "night_absent": 0,
+        "updated": "2026-09-08 16:23:19"
       }
     },
     "40": {

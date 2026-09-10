@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-10 09:24:23",
+  "last_update": "2026-09-10 09:27:17",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -297,8 +297,8 @@
     "35": 481,
     "36": 0,
     "37": 483,
-    "38": 510,
-    "39": 434,
+    "38": 520,
+    "39": 424,
     "40": 395,
     "41": 370,
     "42": 361,
@@ -405,6 +405,12 @@
       "item": "826-00026",
       "description": "Front Module 1 Pole CPL",
       "qty": 15
+    },
+    {
+      "sku": "800-00362 R02",
+      "item": "800-00362",
+      "description": "Battery ATC LFP G5 19\"4U 310Ah 15S 1pole",
+      "qty": 10
     },
     {
       "sku": "800-00037 R21",
@@ -812,17 +818,17 @@
       "week": 37,
       "plan": 483,
       "actual": 110,
-      "updated": "2026-09-10 09:24:23"
+      "updated": "2026-09-10 09:27:17"
     },
     "38": {
       "week": 38,
-      "plan": 510,
+      "plan": 520,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
     "39": {
       "week": 39,
-      "plan": 434,
+      "plan": 424,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -1007,7 +1013,7 @@
         "night_present": 1,
         "night_total": 1,
         "night_absent": 0,
-        "updated": "2026-09-10 09:24:23"
+        "updated": "2026-09-10 09:27:17"
       }
     },
     "40": {

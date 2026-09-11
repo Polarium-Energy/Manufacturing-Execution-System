@@ -1,16 +1,16 @@
 {
-  "last_update": "2026-09-10 16:50:18",
+  "last_update": "2026-09-11 08:08:47",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "week": 37,
   "total": {
-    "planned": 219,
+    "planned": 233,
     "backlog": 23,
-    "total_plan": 242,
-    "produced": 110,
-    "rate": 0.45454545454545453
+    "total_plan": 256,
+    "produced": 184,
+    "rate": 0.71875
   },
   "day_dates": {
     "Mon": "2026-09-07",
@@ -24,16 +24,16 @@
   "products": [
     {
       "sku": "800-00136 P23",
-      "planned": 180,
+      "planned": 194,
       "backlog": 0,
-      "total_plan": 180,
-      "produced": 72,
-      "rate": 0.4,
+      "total_plan": 194,
+      "produced": 144,
+      "rate": 0.7422680412371134,
       "daily": {
         "Mon": 0,
         "Tue": 0,
         "Wed": 72,
-        "Thu": 0,
+        "Thu": 72,
         "Fri": 0,
         "Sat": 0,
         "Sun": 0
@@ -81,18 +81,18 @@
       "planned": 0,
       "backlog": 2,
       "total_plan": 2,
-      "produced": 0,
-      "rate": 0,
+      "produced": 2,
+      "rate": 1,
       "daily": {
         "Mon": 0,
         "Tue": 0,
         "Wed": 0,
-        "Thu": 0,
+        "Thu": 2,
         "Fri": 0,
         "Sat": 0,
         "Sun": 0
       },
-      "note": "1pcs backlog due to shortage busbar"
+      "note": ""
     },
     {
       "sku": "800-00314 P6",
@@ -234,26 +234,26 @@
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 7.238181818181818,
+    "accumulate_total": 5.444565217391305,
     "accumulate_daily": {
       "Mon": 0,
       "Tue": 5.775,
       "Wed": 3.1,
-      "Thu": 0,
+      "Thu": 3.135135135135135,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
     }
   },
   "overtime": {
-    "total": 57,
-    "day_shift": 57,
-    "night_shift": 0,
+    "total": 113,
+    "day_shift": 111,
+    "night_shift": 2,
     "daily": {
       "Mon": 0,
       "Tue": 0,
       "Wed": 57,
-      "Thu": 0,
+      "Thu": 56,
       "Fri": 0,
       "Sat": 0,
       "Sun": 0
@@ -360,7 +360,7 @@
       "sku": "800-00136 R23",
       "item": "800-00136",
       "description": "Battery Polarium HVS 23\" 2U 14S",
-      "qty": 194
+      "qty": 192
     },
     {
       "sku": "880-00184 R01",
@@ -379,6 +379,12 @@
       "item": "800-00356",
       "description": "Battery Nokia NOLB LFP - Rail Mount",
       "qty": 19
+    },
+    {
+      "sku": "800-00374 R01",
+      "item": "800-00374",
+      "description": "Battery Polarium NMC G6 23\" 2U 200Ah 14S 2pole",
+      "qty": 2
     }
   ],
   "plan_detail_next": [
@@ -441,15 +447,15 @@
     "op_total": 21,
     "os_total": 0,
     "day_shift": {
-      "date": "2026-09-09",
+      "date": "2026-09-11",
       "total": 20,
-      "present": 20,
-      "absent": 0,
+      "present": 17,
+      "absent": 3,
       "op": {
         "total": 20,
-        "present": 20,
-        "absent": 0,
-        "permit": "",
+        "present": 17,
+        "absent": 3,
+        "permit": "Thuận , Thanh , Hoàng",
         "no_permit": "",
         "maternity": ""
       },
@@ -463,7 +469,7 @@
       }
     },
     "night_shift": {
-      "date": "2026-09-09",
+      "date": "2026-09-11",
       "total": 1,
       "present": 1,
       "absent": 0,
@@ -497,19 +503,19 @@
       },
       {
         "model": "G5-NMC",
-        "actual": 72,
-        "target": 180,
-        "productivity_pct": 40.0,
+        "actual": 144,
+        "target": 194,
+        "productivity_pct": 74.2,
         "hpu": 2.9,
-        "earned_hours": 208.8
+        "earned_hours": 417.6
       },
       {
         "model": "LFP Large",
-        "actual": 38,
+        "actual": 40,
         "target": 47,
-        "productivity_pct": 80.9,
+        "productivity_pct": 85.1,
         "hpu": 3,
-        "earned_hours": 114
+        "earned_hours": 120
       },
       {
         "model": "Morlus",
@@ -521,17 +527,17 @@
       }
     ],
     "overall": {
-      "earned_hours": 322.8,
-      "actual_hours": 1024,
-      "base_hours": 987,
-      "ot_hours": 37,
-      "headcount_present": 21,
+      "earned_hours": 537.6,
+      "actual_hours": 920,
+      "base_hours": 846,
+      "ot_hours": 74,
+      "headcount_present": 18,
       "std_hours_per_person": 47,
-      "efficiency_pct": 31.5
+      "efficiency_pct": 58.4
     }
   },
   "model_kpi_daily": {
-    "day": "Thu",
+    "day": "Fri",
     "by_model": [
       {
         "model": "G5-NMC",
@@ -560,10 +566,10 @@
     ],
     "overall": {
       "earned_hours": 0.0,
-      "actual_hours": 164.5,
-      "base_hours": 164.5,
+      "actual_hours": 141.0,
+      "base_hours": 141.0,
       "ot_hours": 0,
-      "headcount_present": 21,
+      "headcount_present": 18,
       "std_hours_per_day": 7.83,
       "efficiency_pct": 0.0
     }
@@ -572,17 +578,17 @@
     "Mon": null,
     "Tue": 5.775,
     "Wed": 3.1,
-    "Thu": null,
+    "Thu": 3.135135135135135,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "hpu_target": 2.93,
+  "hpu_target": 2.92,
   "daily_hpu_target": {
     "Mon": null,
     "Tue": 3.0,
     "Wed": 2.91,
-    "Thu": null,
+    "Thu": 2.9,
     "Fri": null,
     "Sat": null,
     "Sun": null
@@ -591,12 +597,12 @@
     "Mon": null,
     "Tue": 51.9,
     "Wed": 93.9,
-    "Thu": null,
+    "Thu": 92.5,
     "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 40.5,
+  "week_efficiency_hpu": 53.6,
   "history": {
     "33": {
       "week": 33,
@@ -817,8 +823,8 @@
     "37": {
       "week": 37,
       "plan": 483,
-      "actual": 110,
-      "updated": "2026-09-10 16:50:18"
+      "actual": 184,
+      "updated": "2026-09-11 08:08:47"
     },
     "38": {
       "week": 38,
@@ -1014,6 +1020,19 @@
         "night_total": 1,
         "night_absent": 0,
         "updated": "2026-09-10 16:50:18"
+      },
+      "2026-09-11": {
+        "date": "2026-09-11",
+        "total_all": 21,
+        "op_total": 21,
+        "os_total": 0,
+        "day_present": 17,
+        "day_total": 20,
+        "day_absent": 3,
+        "night_present": 1,
+        "night_total": 1,
+        "night_absent": 0,
+        "updated": "2026-09-11 08:08:47"
       }
     },
     "40": {
@@ -1042,20 +1061,7 @@
     }
   },
   "issue_record": {
-    "recent": [
-      {
-        "date": "2026-08-27",
-        "week": "202635",
-        "type": "Facility",
-        "detail": "Electric issue",
-        "note": "Electric issue",
-        "stoptime_min": 40,
-        "effected_op": 2,
-        "work_hour": 1.3,
-        "area": "Final Assy",
-        "product": "800-00134"
-      }
-    ],
+    "recent": [],
     "all": [
       {
         "date": "2026-08-27",
@@ -6521,9 +6527,7 @@
     "today": [],
     "today_count": 0,
     "today_stoptime": 0,
-    "by_type_14d": {
-      "Facility": 1
-    },
-    "total_14d": 1
+    "by_type_14d": {},
+    "total_14d": 0
   }
 }

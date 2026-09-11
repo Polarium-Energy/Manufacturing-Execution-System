@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-11 08:11:38",
+  "last_update": "2026-09-11 08:17:24",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -296,8 +296,8 @@
     "34": 638,
     "35": 481,
     "36": 0,
-    "37": 483,
-    "38": 520,
+    "37": 481,
+    "38": 522,
     "39": 425,
     "40": 395,
     "41": 370,
@@ -379,12 +379,6 @@
       "item": "800-00356",
       "description": "Battery Nokia NOLB LFP - Rail Mount",
       "qty": 19
-    },
-    {
-      "sku": "800-00374 R01",
-      "item": "800-00374",
-      "description": "Battery Polarium NMC G6 23\" 2U 200Ah 14S 2pole",
-      "qty": 2
     }
   ],
   "plan_detail_next": [
@@ -423,6 +417,12 @@
       "item": "800-00037",
       "description": "Battery Polarium NMC G5 19\" 2U 50Ah 13S 2pole",
       "qty": 7
+    },
+    {
+      "sku": "800-00374 R01",
+      "item": "800-00374",
+      "description": "Battery Polarium NMC G6 23\" 2U 200Ah 14S 2pole",
+      "qty": 2
     }
   ],
   "plan_detail_next_week_num": 38,
@@ -822,13 +822,13 @@
     },
     "37": {
       "week": 37,
-      "plan": 483,
+      "plan": 481,
       "actual": 184,
-      "updated": "2026-09-11 08:11:38"
+      "updated": "2026-09-11 08:17:24"
     },
     "38": {
       "week": 38,
-      "plan": 520,
+      "plan": 522,
       "actual": null,
       "updated": "2026-08-13 16:05:49"
     },
@@ -1032,7 +1032,7 @@
         "night_present": 1,
         "night_total": 1,
         "night_absent": 0,
-        "updated": "2026-09-11 08:11:38"
+        "updated": "2026-09-11 08:17:24"
       }
     },
     "40": {

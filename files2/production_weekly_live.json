@@ -1,93 +1,93 @@
 {
-  "last_update": "2026-09-14 15:14:44",
+  "last_update": "2026-09-14 16:08:34",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
-  "date": "2026-09-11",
-  "week": 37,
+  "date": "2026-09-14",
+  "week": 38,
   "total": {
-    "planned": 231,
-    "backlog": 23,
-    "total_plan": 254,
-    "produced": 235,
-    "rate": 0.9251968503937008
+    "planned": 522,
+    "backlog": 19,
+    "total_plan": 541,
+    "produced": 51,
+    "rate": 0.09426987060998152
   },
   "day_dates": {
-    "Mon": "2026-09-07",
-    "Tue": "2026-09-08",
-    "Wed": "2026-09-09",
-    "Thu": "2026-09-10",
-    "Fri": "2026-09-11",
-    "Sat": "2026-09-12",
-    "Sun": "2026-09-13"
+    "Mon": "2026-09-14",
+    "Tue": "2026-09-15",
+    "Wed": "2026-09-16",
+    "Thu": "2026-09-17",
+    "Fri": "2026-09-18",
+    "Sat": "2026-09-19",
+    "Sun": "2026-09-20"
   },
   "products": [
     {
-      "sku": "800-00136 P23",
-      "planned": 192,
+      "sku": "800-00042 P20",
+      "planned": 101,
       "backlog": 0,
-      "total_plan": 192,
-      "produced": 192,
-      "rate": 1,
+      "total_plan": 101,
+      "produced": 0,
+      "rate": 0,
       "daily": {
         "Mon": 0,
         "Tue": 0,
-        "Wed": 72,
-        "Thu": 72,
-        "Fri": 48,
-        "Sat": 0,
-        "Sun": 0
-      },
-      "note": ""
-    },
-    {
-      "sku": "800-00356 P4",
-      "planned": 19,
-      "backlog": 0,
-      "total_plan": 19,
-      "produced": 19,
-      "rate": 1,
-      "daily": {
-        "Mon": 0,
-        "Tue": 12,
-        "Wed": 4,
-        "Thu": 0,
-        "Fri": 3,
-        "Sat": 0,
-        "Sun": 0
-      },
-      "note": ""
-    },
-    {
-      "sku": "800-00355 P5",
-      "planned": 20,
-      "backlog": 0,
-      "total_plan": 20,
-      "produced": 20,
-      "rate": 1,
-      "daily": {
-        "Mon": 0,
-        "Tue": 18,
         "Wed": 0,
         "Thu": 0,
-        "Fri": 2,
+        "Fri": 0,
         "Sat": 0,
         "Sun": 0
       },
       "note": ""
     },
     {
-      "sku": "800-00334 P10",
-      "planned": 0,
-      "backlog": 2,
+      "sku": "800-00037 P21",
+      "planned": 7,
+      "backlog": 0,
+      "total_plan": 7,
+      "produced": 0,
+      "rate": 0,
+      "daily": {
+        "Mon": 0,
+        "Tue": 0,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
+      "note": ""
+    },
+    {
+      "sku": "800-00106 P14",
+      "planned": 58,
+      "backlog": 0,
+      "total_plan": 58,
+      "produced": 48,
+      "rate": 0.8275862068965517,
+      "daily": {
+        "Mon": 48,
+        "Tue": 0,
+        "Wed": 0,
+        "Thu": 0,
+        "Fri": 0,
+        "Sat": 0,
+        "Sun": 0
+      },
+      "note": ""
+    },
+    {
+      "sku": "800-00374 P1",
+      "planned": 2,
+      "backlog": 0,
       "total_plan": 2,
-      "produced": 2,
-      "rate": 1,
+      "produced": 0,
+      "rate": 0,
       "daily": {
         "Mon": 0,
         "Tue": 0,
         "Wed": 0,
-        "Thu": 2,
+        "Thu": 0,
         "Fri": 0,
         "Sat": 0,
         "Sun": 0
@@ -97,14 +97,14 @@
     {
       "sku": "800-00314 P6",
       "planned": 0,
-      "backlog": 5,
-      "total_plan": 5,
-      "produced": 2,
-      "rate": 0.4,
+      "backlog": 3,
+      "total_plan": 3,
+      "produced": 3,
+      "rate": 1,
       "daily": {
-        "Mon": 0,
+        "Mon": 3,
         "Tue": 0,
-        "Wed": 2,
+        "Wed": 0,
         "Thu": 0,
         "Fri": 0,
         "Sat": 0,
@@ -114,9 +114,9 @@
     },
     {
       "sku": "800-00362 P2",
-      "planned": 0,
+      "planned": 10,
       "backlog": 1,
-      "total_plan": 1,
+      "total_plan": 11,
       "produced": 0,
       "rate": 0,
       "daily": {
@@ -132,9 +132,9 @@
     },
     {
       "sku": "800-00350 P5 plus",
-      "planned": 0,
+      "planned": 329,
       "backlog": 7,
-      "total_plan": 7,
+      "total_plan": 336,
       "produced": 0,
       "rate": 0,
       "daily": {
@@ -167,32 +167,14 @@
       "note": "Controller Kit"
     },
     {
-      "sku": "880-00022 P3",
-      "planned": 200,
+      "sku": "826-00026 P3",
+      "planned": 15,
       "backlog": 0,
-      "total_plan": 200,
-      "produced": 200,
-      "rate": 1,
+      "total_plan": 15,
+      "produced": 0,
+      "rate": 0,
       "daily": {
-        "Mon": 200,
-        "Tue": 0,
-        "Wed": 0,
-        "Thu": 0,
-        "Fri": 0,
-        "Sat": 0,
-        "Sun": 0
-      },
-      "note": "KIT"
-    },
-    {
-      "sku": "880-00184 P1",
-      "planned": 50,
-      "backlog": 0,
-      "total_plan": 50,
-      "produced": 50,
-      "rate": 1,
-      "daily": {
-        "Mon": 50,
+        "Mon": 0,
         "Tue": 0,
         "Wed": 0,
         "Thu": 0,
@@ -205,8 +187,8 @@
   ],
   "hpu": {
     "total": 0,
-    "day_shift": 200,
-    "night_shift": 50,
+    "day_shift": 0,
+    "night_shift": 21,
     "daily": {
       "Mon": 0,
       "Tue": 0,
@@ -217,7 +199,7 @@
       "Sun": 0
     },
     "daily_day": {
-      "Mon": 200,
+      "Mon": 0,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -226,7 +208,7 @@
       "Sun": 0
     },
     "daily_night": {
-      "Mon": 50,
+      "Mon": 16,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -234,27 +216,27 @@
       "Sat": 0,
       "Sun": 0
     },
-    "accumulate_total": 4.441702127659576,
+    "accumulate_total": 2.7607843137254906,
     "accumulate_daily": {
-      "Mon": 0,
-      "Tue": 6.16,
-      "Wed": 3.1,
-      "Thu": 3.135135135135135,
-      "Fri": 3.781132075471698,
+      "Mon": 2.7607843137254906,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
       "Sat": 0,
       "Sun": 0
     }
   },
   "overtime": {
-    "total": 155,
-    "day_shift": 153,
-    "night_shift": 2,
+    "total": 0,
+    "day_shift": 0,
+    "night_shift": 0,
     "daily": {
       "Mon": 0,
       "Tue": 0,
-      "Wed": 57,
-      "Thu": 56,
-      "Fri": 42,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
       "Sat": 0,
       "Sun": 0
     }
@@ -302,7 +284,8 @@
     "40": 395,
     "41": 370,
     "42": 361,
-    "43": 0
+    "43": 0,
+    "44": 0
   },
   "weeks_range": [
     1,
@@ -347,41 +330,10 @@
     40,
     41,
     42,
-    43
+    43,
+    44
   ],
   "plan_detail_current": [
-    {
-      "sku": "880-00022 R03",
-      "item": "880-00022",
-      "description": "Stacking Material SP48",
-      "qty": 200
-    },
-    {
-      "sku": "800-00136 R23",
-      "item": "800-00136",
-      "description": "Battery Polarium HVS 23\" 2U 14S",
-      "qty": 192
-    },
-    {
-      "sku": "880-00184 R01",
-      "item": null,
-      "description": "SLB48 G5 Additional Installation Material",
-      "qty": 50
-    },
-    {
-      "sku": "800-00355 R05",
-      "item": "800-00355",
-      "description": "Battery Nokia NOLB LFP",
-      "qty": 20
-    },
-    {
-      "sku": "800-00356 R04",
-      "item": "800-00356",
-      "description": "Battery Nokia NOLB LFP - Rail Mount",
-      "qty": 19
-    }
-  ],
-  "plan_detail_next": [
     {
       "sku": "800-00350 R06",
       "item": "800-00350",
@@ -425,7 +377,27 @@
       "qty": 2
     }
   ],
-  "plan_detail_next_week_num": 38,
+  "plan_detail_next": [
+    {
+      "sku": "800-00362 R02",
+      "item": "800-00362",
+      "description": "Battery ATC LFP G5 19\"4U 310Ah 15S 1pole",
+      "qty": 280
+    },
+    {
+      "sku": "800-00042 R20",
+      "item": "800-00042",
+      "description": "Battery Polarium NMC G5 19\" 4U 100Ah 13S 2pole",
+      "qty": 135
+    },
+    {
+      "sku": "800-00360 R01",
+      "item": "800-00360",
+      "description": "Battery Polarium LFP G5 19\"4U 310Ah 15S 2pole",
+      "qty": 10
+    }
+  ],
+  "plan_detail_next_week_num": 39,
   "monthly_plan": {
     "2026-01": 2161,
     "2026-02": 2423,
@@ -494,50 +466,50 @@
   "model_kpi": {
     "by_model": [
       {
-        "model": "Khác",
-        "actual": 250,
-        "target": 258,
-        "productivity_pct": 96.9,
-        "hpu": null,
-        "earned_hours": null
-      },
-      {
         "model": "G5-NMC",
-        "actual": 192,
-        "target": 192,
-        "productivity_pct": 100.0,
+        "actual": 48,
+        "target": 168,
+        "productivity_pct": 28.6,
         "hpu": 2.9,
-        "earned_hours": 556.8
+        "earned_hours": 139.2
       },
       {
         "model": "LFP Large",
-        "actual": 43,
-        "target": 47,
-        "productivity_pct": 91.5,
+        "actual": 3,
+        "target": 13,
+        "productivity_pct": 23.1,
         "hpu": 3,
-        "earned_hours": 129
+        "earned_hours": 9
       },
       {
         "model": "Morlus",
         "actual": 0,
-        "target": 7,
+        "target": 329,
         "productivity_pct": 0.0,
         "hpu": 1.5,
         "earned_hours": 0.0
+      },
+      {
+        "model": "Khác",
+        "actual": 0,
+        "target": 23,
+        "productivity_pct": 0.0,
+        "hpu": null,
+        "earned_hours": null
       }
     ],
     "overall": {
-      "earned_hours": 685.8,
-      "actual_hours": 948,
-      "base_hours": 846,
-      "ot_hours": 102,
+      "earned_hours": 148.2,
+      "actual_hours": 864,
+      "base_hours": 864,
+      "ot_hours": 0,
       "headcount_present": 18,
-      "std_hours_per_person": 47,
-      "efficiency_pct": 72.3
+      "std_hours_per_person": 48,
+      "efficiency_pct": 17.2
     }
   },
   "model_kpi_daily": {
-    "day": "Fri",
+    "day": "Mon",
     "by_model": [
       {
         "model": "G5-NMC",
@@ -547,9 +519,9 @@
       },
       {
         "model": "LFP Large",
-        "actual": 5,
+        "actual": 3,
         "hpu": 3,
-        "earned_hours": 15
+        "earned_hours": 9
       },
       {
         "model": "Morlus",
@@ -565,44 +537,44 @@
       }
     ],
     "overall": {
-      "earned_hours": 154.2,
-      "actual_hours": 169.0,
-      "base_hours": 141.0,
-      "ot_hours": 28,
+      "earned_hours": 148.2,
+      "actual_hours": 144.0,
+      "base_hours": 144.0,
+      "ot_hours": 0,
       "headcount_present": 18,
-      "std_hours_per_day": 7.83,
-      "efficiency_pct": 91.2
+      "std_hours_per_day": 8.0,
+      "efficiency_pct": 102.9
     }
   },
   "daily_hpu": {
-    "Mon": null,
-    "Tue": 6.16,
-    "Wed": 3.1,
-    "Thu": 3.135135135135135,
-    "Fri": 3.781132075471698,
+    "Mon": 2.7607843137254906,
+    "Tue": null,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "hpu_target": 2.92,
+  "hpu_target": 2.91,
   "daily_hpu_target": {
-    "Mon": null,
-    "Tue": 3.0,
-    "Wed": 2.91,
-    "Thu": 2.9,
-    "Fri": 2.91,
+    "Mon": 2.91,
+    "Tue": null,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
     "Sat": null,
     "Sun": null
   },
   "daily_efficiency": {
-    "Mon": null,
-    "Tue": 48.7,
-    "Wed": 93.9,
-    "Thu": 92.5,
-    "Fri": 77.0,
+    "Mon": 105.4,
+    "Tue": null,
+    "Wed": null,
+    "Thu": null,
+    "Fri": null,
     "Sat": null,
     "Sun": null
   },
-  "week_efficiency_hpu": 65.7,
+  "week_efficiency_hpu": 105.4,
   "history": {
     "33": {
       "week": 33,
@@ -829,8 +801,8 @@
     "38": {
       "week": 38,
       "plan": 522,
-      "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "actual": 51,
+      "updated": "2026-09-14 16:08:34"
     },
     "39": {
       "week": 39,
@@ -1032,7 +1004,7 @@
         "night_present": 1,
         "night_total": 1,
         "night_absent": 0,
-        "updated": "2026-09-14 15:14:44"
+        "updated": "2026-09-14 16:08:34"
       }
     },
     "40": {
@@ -1058,6 +1030,12 @@
       "plan": 0,
       "actual": null,
       "updated": "2026-09-07 22:18:27"
+    },
+    "44": {
+      "week": 44,
+      "plan": 0,
+      "actual": null,
+      "updated": "2026-09-14 16:08:34"
     }
   },
   "issue_record": {

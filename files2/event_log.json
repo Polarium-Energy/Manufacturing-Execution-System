@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "time": "2026-09-11",
+    "time": "2026-09-14",
     "type": "other",
     "model": "800-00362 P2",
     "description": "test",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "time": "2026-09-11",
+    "time": "2026-09-14",
     "type": "other",
     "model": "800-00350 P5 plus",
     "description": "7pcs backlog due to shortage the income material",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "time": "2026-09-11",
+    "time": "2026-09-14",
     "type": "other",
     "model": "880-00180 P1",
     "description": "Controller Kit",
@@ -28,18 +28,9 @@
   },
   {
     "id": 4,
-    "time": "2026-09-11",
+    "time": "2026-09-14",
     "type": "other",
-    "model": "880-00022 P3",
-    "description": "KIT",
-    "duration_min": null,
-    "source": "file"
-  },
-  {
-    "id": 5,
-    "time": "2026-09-11",
-    "type": "other",
-    "model": "880-00184 P1",
+    "model": "826-00026 P3",
     "description": "KIT",
     "duration_min": null,
     "source": "file"

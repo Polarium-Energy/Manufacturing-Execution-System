@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-15 21:22:59",
+  "last_update": "2026-09-15 22:48:27",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -606,436 +606,271 @@
   },
   "week_efficiency_hpu": 119.7,
   "history": {
-    "33": {
-      "week": 33,
-      "plan": 718,
-      "actual": 757,
-      "updated": "2026-08-14 20:44:56"
+    "38": {
+      "week": 38,
+      "plan": 519,
+      "actual": 189,
+      "updated": "2026-09-15 22:48:27"
     },
     "1": {
       "week": 1,
       "plan": 0,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "2": {
       "week": 2,
       "plan": 0,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "3": {
       "week": 3,
       "plan": 530,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "4": {
       "week": 4,
       "plan": 1051,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "5": {
       "week": 5,
       "plan": 580,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "6": {
       "week": 6,
       "plan": 875,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "7": {
       "week": 7,
       "plan": 100,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "8": {
       "week": 8,
       "plan": 1008,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "9": {
       "week": 9,
       "plan": 440,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "10": {
       "week": 10,
       "plan": 1095,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "11": {
       "week": 11,
       "plan": 1688,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "12": {
       "week": 12,
       "plan": 1852,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "13": {
       "week": 13,
       "plan": 2239,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "14": {
       "week": 14,
       "plan": 1934,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "15": {
       "week": 15,
       "plan": 3422,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "16": {
       "week": 16,
       "plan": 1155,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "17": {
       "week": 17,
       "plan": 441,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "18": {
       "week": 18,
       "plan": 424,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "19": {
       "week": 19,
       "plan": 1061,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "20": {
       "week": 20,
       "plan": 1128,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "21": {
       "week": 21,
       "plan": 1252,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "22": {
       "week": 22,
       "plan": 1789,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "23": {
       "week": 23,
       "plan": 903,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "24": {
       "week": 24,
       "plan": 1150,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "25": {
       "week": 25,
       "plan": 1385,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "26": {
       "week": 26,
       "plan": 1205,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "27": {
       "week": 27,
       "plan": 1180,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "28": {
       "week": 28,
       "plan": 1172,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "29": {
       "week": 29,
       "plan": 1150,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "30": {
       "week": 30,
       "plan": 1414,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "31": {
       "week": 31,
       "plan": 1091,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "32": {
       "week": 32,
       "plan": 1029,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
+    },
+    "33": {
+      "week": 33,
+      "plan": 718,
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
     },
     "34": {
       "week": 34,
       "plan": 638,
-      "actual": 786,
-      "updated": "2026-08-25 16:34:52"
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
     },
     "35": {
       "week": 35,
       "plan": 481,
-      "actual": 477,
-      "updated": "2026-09-07 22:15:46"
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
     },
     "36": {
       "week": 36,
       "plan": 0,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
     },
     "37": {
       "week": 37,
       "plan": 481,
-      "actual": 235,
-      "updated": "2026-09-14 15:14:44"
-    },
-    "38": {
-      "week": 38,
-      "plan": 519,
-      "actual": 189,
-      "updated": "2026-09-15 21:22:59"
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
     },
     "39": {
       "week": 39,
       "plan": 495,
       "actual": null,
-      "updated": "2026-08-13 16:05:49"
+      "updated": "2026-09-15 22:48:27"
+    },
+    "40": {
+      "week": 40,
+      "plan": 350,
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
+    },
+    "41": {
+      "week": 41,
+      "plan": 398,
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
+    },
+    "42": {
+      "week": 42,
+      "plan": 333,
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
+    },
+    "43": {
+      "week": 43,
+      "plan": 0,
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
+    },
+    "44": {
+      "week": 44,
+      "plan": 0,
+      "actual": null,
+      "updated": "2026-09-15 22:48:27"
     },
     "manpower_daily": {
-      "2026-08-13": {
-        "date": "2026-08-13",
-        "total_all": 48,
-        "op_total": 23,
-        "os_total": 25,
-        "day_present": 46,
-        "day_total": 48,
-        "day_absent": 2,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-13 22:20:12"
-      },
-      "2026-08-14": {
-        "date": "2026-08-14",
-        "total_all": 48,
-        "op_total": 23,
-        "os_total": 25,
-        "day_present": 47,
-        "day_total": 48,
-        "day_absent": 1,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-14 20:44:56"
-      },
-      "2026-08-17": {
-        "date": "2026-08-17",
-        "total_all": 46,
-        "op_total": 22,
-        "os_total": 24,
-        "day_present": 38,
-        "day_total": 46,
-        "day_absent": 8,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-17 21:36:02"
-      },
-      "2026-08-18": {
-        "date": "2026-08-18",
-        "total_all": 45,
-        "op_total": 22,
-        "os_total": 23,
-        "day_present": 40,
-        "day_total": 44,
-        "day_absent": 4,
-        "night_present": 1,
-        "night_total": 1,
-        "night_absent": 0,
-        "updated": "2026-08-18 20:34:56"
-      },
-      "2026-08-19": {
-        "date": "2026-08-19",
-        "total_all": 44,
-        "op_total": 21,
-        "os_total": 23,
-        "day_present": 42,
-        "day_total": 43,
-        "day_absent": 1,
-        "night_present": 1,
-        "night_total": 1,
-        "night_absent": 0,
-        "updated": "2026-08-20 09:29:22"
-      },
-      "2026-08-20": {
-        "date": "2026-08-20",
-        "total_all": 45,
-        "op_total": 21,
-        "os_total": 24,
-        "day_present": 41,
-        "day_total": 44,
-        "day_absent": 3,
-        "night_present": 1,
-        "night_total": 1,
-        "night_absent": 0,
-        "updated": "2026-08-20 14:17:12"
-      },
-      "2026-08-21": {
-        "date": "2026-08-21",
-        "total_all": 46,
-        "op_total": 21,
-        "os_total": 25,
-        "day_present": 42,
-        "day_total": 46,
-        "day_absent": 4,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-22 07:01:54"
-      },
-      "2026-08-22": {
-        "date": "2026-08-22",
-        "total_all": 46,
-        "op_total": 21,
-        "os_total": 25,
-        "day_present": 38,
-        "day_total": 46,
-        "day_absent": 8,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-25 16:34:52"
-      },
-      "2026-08-26": {
-        "date": "2026-08-26",
-        "total_all": 46,
-        "op_total": 21,
-        "os_total": 25,
-        "day_present": 40,
-        "day_total": 46,
-        "day_absent": 6,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-27 08:05:49"
-      },
-      "2026-08-27": {
-        "date": "2026-08-27",
-        "total_all": 46,
-        "op_total": 21,
-        "os_total": 25,
-        "day_present": 41,
-        "day_total": 46,
-        "day_absent": 5,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-08-27 21:51:32"
-      },
-      "2026-08-28": {
-        "date": "2026-08-28",
-        "total_all": 45,
-        "op_total": 21,
-        "os_total": 24,
-        "day_present": 39,
-        "day_total": 45,
-        "day_absent": 6,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-09-07 22:15:46"
-      },
-      "2026-09-07": {
-        "date": "2026-09-07",
-        "total_all": 21,
-        "op_total": 21,
-        "os_total": 0,
-        "day_present": 21,
-        "day_total": 21,
-        "day_absent": 0,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-09-08 16:20:30"
-      },
-      "2026-09-08": {
-        "date": "2026-09-08",
-        "total_all": 21,
-        "op_total": 21,
-        "os_total": 0,
-        "day_present": 21,
-        "day_total": 21,
-        "day_absent": 0,
-        "night_present": 0,
-        "night_total": 0,
-        "night_absent": 0,
-        "updated": "2026-09-09 00:34:47"
-      },
-      "2026-09-09": {
-        "date": "2026-09-09",
-        "total_all": 21,
-        "op_total": 21,
-        "os_total": 0,
-        "day_present": 20,
-        "day_total": 20,
-        "day_absent": 0,
-        "night_present": 1,
-        "night_total": 1,
-        "night_absent": 0,
-        "updated": "2026-09-10 16:50:18"
-      },
-      "2026-09-11": {
-        "date": "2026-09-11",
-        "total_all": 21,
-        "op_total": 21,
-        "os_total": 0,
-        "day_present": 17,
-        "day_total": 20,
-        "day_absent": 3,
-        "night_present": 1,
-        "night_total": 1,
-        "night_absent": 0,
-        "updated": "2026-09-14 16:49:28"
-      },
       "2026-09-15": {
         "date": "2026-09-15",
         "total_all": 21,
@@ -1047,38 +882,8 @@
         "night_present": 1,
         "night_total": 1,
         "night_absent": 0,
-        "updated": "2026-09-15 21:22:59"
+        "updated": "2026-09-15 22:48:27"
       }
-    },
-    "40": {
-      "week": 40,
-      "plan": 350,
-      "actual": null,
-      "updated": "2026-08-17 08:17:18"
-    },
-    "41": {
-      "week": 41,
-      "plan": 398,
-      "actual": null,
-      "updated": "2026-08-26 19:06:37"
-    },
-    "42": {
-      "week": 42,
-      "plan": 333,
-      "actual": null,
-      "updated": "2026-09-07 22:18:27"
-    },
-    "43": {
-      "week": 43,
-      "plan": 0,
-      "actual": null,
-      "updated": "2026-09-07 22:18:27"
-    },
-    "44": {
-      "week": 44,
-      "plan": 0,
-      "actual": null,
-      "updated": "2026-09-14 16:08:34"
     }
   },
   "issue_record": {

@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-15 23:17:54",
+  "last_update": "2026-09-16 08:20:47",
   "status": "ok",
   "errors": null,
   "report_file": "Production Weekly report.xlsx",
@@ -449,7 +449,7 @@
     "op_total": 21,
     "os_total": 0,
     "day_shift": {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "total": 21,
       "present": 19,
       "absent": 2,
@@ -457,7 +457,7 @@
         "total": 21,
         "present": 19,
         "absent": 2,
-        "permit": "Thủy , Đại",
+        "permit": "Thuận , Linh",
         "no_permit": "",
         "maternity": ""
       },
@@ -471,7 +471,7 @@
       }
     },
     "night_shift": {
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "total": 1,
       "present": 1,
       "absent": 0,
@@ -610,7 +610,7 @@
       "week": 38,
       "plan": 519,
       "actual": 189,
-      "updated": "2026-09-15 23:17:54"
+      "updated": "2026-09-16 08:20:47"
     },
     "1": {
       "week": 1,
@@ -883,6 +883,19 @@
         "night_total": 1,
         "night_absent": 0,
         "updated": "2026-09-15 23:17:54"
+      },
+      "2026-09-16": {
+        "date": "2026-09-16",
+        "total_all": 21,
+        "op_total": 21,
+        "os_total": 0,
+        "day_present": 19,
+        "day_total": 21,
+        "day_absent": 2,
+        "night_present": 1,
+        "night_total": 1,
+        "night_absent": 0,
+        "updated": "2026-09-16 08:20:47"
       }
     }
   },
